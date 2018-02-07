@@ -1,0 +1,1 @@
+metricHisto 8192 1 7 true MH ../../../../../datasets/reduzidos_4247.txt ../../../../../datasets/reduzidos_4247_500.txt

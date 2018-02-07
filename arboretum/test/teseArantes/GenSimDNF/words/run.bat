@@ -1,0 +1,1 @@
+Words 1024 1 6 EG ../../../../../datasets/EnglishResto.txt ../../../../../datasets/English500.txt ../../../../../datasets/English500_2.txt ../../../../../datasets/English500_3.txt

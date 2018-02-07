@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE mamview SYSTEM "mamview.dtd">
+<animation>
+	<description>
+		<title>
+			Slim-Tree: k-Nearest Neighbor Query with page size 1024
+		</title>
+		<comment>
+			The k of this nearest neighbor query is 8
+		</comment>
+	</description>
+	<frame id="0">
+		<comment>
+			Entering in the index node 21 at level 0
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="21" />
+		</command>
+		<node active="true" id="3" parent="21" type="0" level="1" >
+			<repobj radius="27.5731" x="10.0879" y="10.2221" z="1.31009e-07" />
+		</node>
+		<node active="true" id="20" parent="21" type="0" level="1" >
+			<repobj radius="15.5067" x="26.4586" y="6.79869" z="2.94448e-07" />
+		</node>
+		<node active="true" id="37" parent="21" type="0" level="1" >
+			<repobj radius="12.3007" x="3.68665" y="8.88149" z="2.94594e-07" />
+		</node>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="-1" innerRadius="0" outerRadius="0" />
+		</query>
+	</frame>
+	<frame id="1">
+		<comment>
+			Entering in the index node 20 at level 1
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="20" />
+		</command>
+		<node active="true" id="13" parent="20" type="0" level="2" >
+			<repobj radius="4.2138" x="28.657" y="1.802" z="2.94705e-07" />
+		</node>
+		<node active="true" id="6" parent="20" type="0" level="2" >
+			<repobj radius="2.60762" x="29.9601" y="5.81882" z="2.01894e-08" />
+		</node>
+		<node active="true" id="2" parent="20" type="0" level="2" >
+			<repobj radius="2.47631" x="21.1765" y="7.11207" z="3.50343e-07" />
+		</node>
+		<node active="true" id="17" parent="20" type="0" level="2" >
+			<repobj radius="1.30177" x="24.6333" y="6.75996" z="1.90858e-07" />
+		</node>
+		<node active="true" id="25" parent="20" type="0" level="2" >
+			<repobj radius="2.35468" x="24.0055" y="10.845" z="3.53398e-07" />
+		</node>
+		<node active="true" id="28" parent="20" type="0" level="2" >
+			<repobj radius="3.22579" x="14.2273" y="5.69609" z="1.6266e-08" />
+		</node>
+		<node active="true" id="24" parent="20" type="0" level="2" >
+			<repobj radius="1.90625" x="25.8374" y="2.63155" z="2.5799e-07" />
+		</node>
+		<node active="true" id="29" parent="20" type="0" level="2" >
+			<repobj radius="1.9188" x="22.1295" y="3.98157" z="2.29128e-07" />
+		</node>
+		<node active="true" id="22" parent="20" type="0" level="2" >
+			<repobj radius="1.2209" x="15.3796" y="1.13246" z="1.28751e-07" />
+		</node>
+		<node active="true" id="34" parent="20" type="0" level="2" >
+			<repobj radius="3.31308" x="16.6421" y="3.11378" z="7.63011e-08" />
+		</node>
+		<node active="true" id="4" parent="20" type="0" level="2" >
+			<repobj radius="5.04049" x="22.0614" y="4.64336" z="-1.85415e-09" />
+		</node>
+		<node active="true" id="33" parent="20" type="0" level="2" >
+			<repobj radius="6.34045" x="20.5756" y="11.6946" z="2.08606e-07" />
+		</node>
+		<node active="true" id="31" parent="20" type="0" level="2" >
+			<repobj radius="1.52738" x="16.7507" y="1.18643" z="5.35316e-08" />
+		</node>
+		<node active="true" id="15" parent="20" type="0" level="2" >
+			<repobj radius="1.27475" x="26.4586" y="6.79869" z="2.94448e-07" />
+		</node>
+		<node active="true" id="35" parent="20" type="0" level="2" >
+			<repobj radius="2.05922" x="27.169" y="4.40452" z="9.71112e-08" />
+		</node>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="-1" innerRadius="0" outerRadius="0" />
+		</query>
+	</frame>
+	<frame id="2">
+		<comment>
+			Entering in the leaf node 4 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="4" />
+		</command>
+		<object active="true" x="22.0614" y="4.64336" z="-1.85415e-09" level="2" parent="4" />
+		<object active="true" x="21.6015" y="5.93333" z="7.64697e-08" level="2" parent="4" />
+		<object active="true" x="21.1761" y="6.76494" z="1.10912e-07" level="2" parent="4" />
+		<object active="true" x="20.747" y="6.5975" z="1.11727e-07" level="2" parent="4" />
+		<object active="true" x="20.9868" y="6.73232" z="1.94363e-07" level="2" parent="4" />
+		<object active="true" x="23.8924" y="3.40735" z="3.05865e-07" level="2" parent="4" />
+		<object active="true" x="23.1462" y="3.80175" z="1.69121e-07" level="2" parent="4" />
+		<object active="true" x="25.2933" y="1.43006" z="3.911e-07" level="2" parent="4" />
+		<object active="true" x="22.2635" y="7.8857" z="1.06361e-07" level="2" parent="4" />
+		<object active="true" x="25.8829" y="5.53156" z="2.99287e-07" level="2" parent="4" />
+		<object active="true" x="17.7855" y="7.31228" z="2.16093e-07" level="2" parent="4" />
+		<object active="true" x="19.0849" y="5.49182" z="2.34466e-07" level="2" parent="4" />
+		<object active="true" x="26.7693" y="5.98854" z="5.60459e-08" level="2" parent="4" />
+		<object active="true" x="24.9758" y="4.35786" z="1.8282e-07" level="2" parent="4" />
+		<object active="true" x="21.0054" y="3.00028" z="2.29016e-07" level="2" parent="4" />
+		<object active="true" x="19.7501" y="4.08666" z="1.73658e-07" level="2" parent="4" />
+		<object active="true" x="20.3588" y="4.09487" z="1.96245e-07" level="2" parent="4" />
+		<object active="true" x="19.6245" y="2.1665" z="1.59696e-07" level="2" parent="4" />
+		<object active="true" x="25.0652" y="8.06097" z="2.7544e-07" level="2" parent="4" />
+		<object active="true" x="24.5927" y="4.60405" z="2.36292e-07" level="2" parent="4" />
+		<object active="true" x="24.7631" y="4.47969" z="-2.1407e-08" level="2" parent="4" />
+	</frame>
+	<frame id="3">
+		<comment>
+			The result after the leaf node 4 at level 2 has 8 object(s) and radius 2.191849
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="2.19185" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="22.0614" y="4.64336" z="-1.85415e-09" distance="1.49933" />
+			<answer x="21.0054" y="3.00028" z="2.29016e-07" distance="1.6421" />
+			<answer x="21.6015" y="5.93333" z="7.64697e-08" distance="1.70423" />
+			<answer x="19.0849" y="5.49182" z="2.34466e-07" distance="1.73612" />
+			<answer x="20.747" y="6.5975" z="1.11727e-07" distance="2.02408" />
+			<answer x="20.9868" y="6.73232" z="1.94363e-07" distance="2.19185" />
+		</query>
+	</frame>
+	<frame id="4">
+		<comment>
+			Entering in the leaf node 29 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="29" />
+		</command>
+		<object active="true" x="22.1295" y="3.98157" z="2.29128e-07" level="2" parent="29" />
+		<object active="true" x="23.9746" y="3.45479" z="1.79881e-07" level="2" parent="29" />
+		<object active="true" x="23.4864" y="4.03469" z="3.1286e-07" level="2" parent="29" />
+		<object active="true" x="20.7153" y="3.23079" z="2.29128e-07" level="2" parent="29" />
+		<object active="true" x="22.6116" y="3.6209" z="2.1124e-07" level="2" parent="29" />
+		<object active="true" x="21.045" y="3.87396" z="1.14087e-07" level="2" parent="29" />
+		<object active="true" x="20.8788" y="2.6314" z="7.75934e-08" level="2" parent="29" />
+		<object active="true" x="22.5949" y="5.07916" z="6.6307e-08" level="2" parent="29" />
+		<object active="true" x="23.1687" y="4.36981" z="1.59471e-07" level="2" parent="29" />
+		<object active="true" x="21.3023" y="2.65683" z="2.75693e-07" level="2" parent="29" />
+		<object active="true" x="23.0197" y="4.72922" z="1.07386e-07" level="2" parent="29" />
+		<object active="true" x="21.1372" y="5.28917" z="2.82337e-07" level="2" parent="29" />
+	</frame>
+	<frame id="5">
+		<comment>
+			The result after the leaf node 29 at level 2 has 8 object(s) and radius 1.677200
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.6772" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+			<answer x="22.0614" y="4.64336" z="-1.85415e-09" distance="1.49933" />
+			<answer x="21.0054" y="3.00028" z="2.29016e-07" distance="1.6421" />
+			<answer x="22.1295" y="3.98157" z="2.29128e-07" distance="1.6772" />
+		</query>
+	</frame>
+	<frame id="6">
+		<comment>
+			Entering in the leaf node 2 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="2" />
+		</command>
+		<object active="true" x="21.1765" y="7.11207" z="3.50343e-07" level="2" parent="2" />
+		<object active="true" x="20.7298" y="7.70863" z="3.14054e-07" level="2" parent="2" />
+		<object active="true" x="20.8356" y="6.77283" z="7.64697e-08" level="2" parent="2" />
+		<object active="true" x="23.3769" y="5.97616" z="2.53401e-07" level="2" parent="2" />
+		<object active="true" x="23.095" y="7.01472" z="1.83561e-07" level="2" parent="2" />
+		<object active="true" x="20.7778" y="9.26994" z="3.08014e-07" level="2" parent="2" />
+		<object active="true" x="20.683" y="7.30912" z="1.27431e-07" level="2" parent="2" />
+		<object active="true" x="22.9048" y="6.99622" z="3.76224e-07" level="2" parent="2" />
+		<object active="true" x="20.9947" y="7.07282" z="2.39186e-07" level="2" parent="2" />
+		<object active="true" x="20.8174" y="6.01377" z="3.0491e-07" level="2" parent="2" />
+		<object active="true" x="21.226" y="8.05718" z="1.54456e-07" level="2" parent="2" />
+		<object active="true" x="19.4319" y="8.32492" z="1.61634e-07" level="2" parent="2" />
+		<object active="true" x="20.7578" y="7.95115" z="1.1285e-07" level="2" parent="2" />
+		<object active="true" x="22.7583" y="7.31328" z="3.42583e-07" level="2" parent="2" />
+		<object active="true" x="21.352" y="6.903" z="5.26045e-08" level="2" parent="2" />
+		<object active="true" x="21.6427" y="6.8992" z="2.99502e-07" level="2" parent="2" />
+		<object active="true" x="20.5255" y="5.68456" z="2.26881e-07" level="2" parent="2" />
+		<object active="true" x="21.2678" y="7.12463" z="1.78701e-07" level="2" parent="2" />
+		<object active="true" x="21.9176" y="6.80237" z="1.0556e-08" level="2" parent="2" />
+		<object active="true" x="22.4662" y="7.81286" z="2.39256e-07" level="2" parent="2" />
+		<object active="true" x="20.7269" y="6.69547" z="2.18804e-07" level="2" parent="2" />
+		<object active="true" x="21.8146" y="6.15864" z="1.70596e-07" level="2" parent="2" />
+	</frame>
+	<frame id="7">
+		<comment>
+			The result after the leaf node 2 at level 2 has 8 object(s) and radius 1.499333
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.49933" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+			<answer x="20.8174" y="6.01377" z="3.0491e-07" distance="1.45437" />
+			<answer x="22.0614" y="4.64336" z="-1.85415e-09" distance="1.49933" />
+		</query>
+	</frame>
+	<frame id="8">
+		<comment>
+			Entering in the leaf node 34 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="34" />
+		</command>
+		<object active="true" x="16.6421" y="3.11378" z="7.63011e-08" level="2" parent="34" />
+		<object active="true" x="16.1861" y="3.15725" z="2.77322e-07" level="2" parent="34" />
+		<object active="true" x="16.5112" y="4.23225" z="2.89163e-07" level="2" parent="34" />
+		<object active="true" x="17.2892" y="2.95428" z="1.88309e-07" level="2" parent="34" />
+		<object active="true" x="16.6707" y="4.87937" z="1.65595e-07" level="2" parent="34" />
+		<object active="true" x="15.7569" y="3.69819" z="2.18987e-07" level="2" parent="34" />
+		<object active="true" x="16.9737" y="6.3214" z="2.36475e-07" level="2" parent="34" />
+		<object active="true" x="19.4178" y="2.77747" z="3.62571e-07" level="2" parent="34" />
+		<object active="true" x="19.2492" y="4.16994" z="1.38794e-07" level="2" parent="34" />
+		<object active="true" x="17.9937" y="3.37202" z="1.30057e-07" level="2" parent="34" />
+		<object active="true" x="17.7328" y="4.17808" z="3.70971e-07" level="2" parent="34" />
+		<object active="true" x="14.8484" y="3.02028" z="2.41264e-07" level="2" parent="34" />
+		<object active="true" x="19.9161" y="3.44492" z="3.42049e-07" level="2" parent="34" />
+		<object active="true" x="13.6292" y="1.73576" z="2.40436e-07" level="2" parent="34" />
+	</frame>
+	<frame id="9">
+		<comment>
+			The result after the leaf node 34 at level 2 has 8 object(s) and radius 1.377135
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.37713" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.9161" y="3.44492" z="3.42049e-07" distance="1.30817" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+			<answer x="19.2492" y="4.16994" z="1.38794e-07" distance="1.37713" />
+		</query>
+	</frame>
+	<frame id="10">
+		<comment>
+			Entering in the leaf node 33 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="33" />
+		</command>
+		<object active="true" x="20.5756" y="11.6946" z="2.08606e-07" level="2" parent="33" />
+		<object active="true" x="17.1338" y="9.90833" z="7.19748e-08" level="2" parent="33" />
+		<object active="true" x="17.2281" y="9.5173" z="1.75119e-07" level="2" parent="33" />
+		<object active="true" x="17.7023" y="10.2329" z="1.14719e-07" level="2" parent="33" />
+		<object active="true" x="16.7378" y="16.7417" z="6.55695e-08" level="2" parent="33" />
+		<object active="true" x="20.7119" y="7.41712" z="3.71392e-07" level="2" parent="33" />
+		<object active="true" x="19.0732" y="12.412" z="5.89115e-08" level="2" parent="33" />
+	</frame>
+	<frame id="11">
+		<comment>
+			The result after the leaf node 33 at level 2 has 8 object(s) and radius 1.377135
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.37713" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.9161" y="3.44492" z="3.42049e-07" distance="1.30817" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+			<answer x="19.2492" y="4.16994" z="1.38794e-07" distance="1.37713" />
+		</query>
+	</frame>
+	<frame id="12">
+		<comment>
+			Entering in the index node 3 at level 1
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="3" />
+		</command>
+		<node active="true" id="14" parent="3" type="0" level="2" >
+			<repobj radius="5.24619" x="10.0879" y="10.2221" z="1.31009e-07" />
+		</node>
+		<node active="true" id="1" parent="3" type="0" level="2" >
+			<repobj radius="5.84932" x="17.3514" y="16.7856" z="2.84064e-07" />
+		</node>
+		<node active="true" id="5" parent="3" type="0" level="2" >
+			<repobj radius="12.18" x="14.4291" y="24.9903" z="1.26138e-07" />
+		</node>
+		<node active="true" id="8" parent="3" type="0" level="2" >
+			<repobj radius="3.16332" x="7.25494" y="4.19371" z="3.185e-07" />
+		</node>
+		<node active="true" id="16" parent="3" type="0" level="2" >
+			<repobj radius="1.38177" x="16.7105" y="2.09074" z="3.36571e-07" />
+		</node>
+		<node active="true" id="10" parent="3" type="0" level="2" >
+			<repobj radius="2.22524" x="11.6345" y="0.978473" z="2.67953e-07" />
+		</node>
+		<node active="true" id="19" parent="3" type="0" level="2" >
+			<repobj radius="3.79353" x="18.3283" y="3.46294" z="1.10125e-07" />
+		</node>
+		<node active="true" id="23" parent="3" type="0" level="2" >
+			<repobj radius="2.45394" x="8.70469" y="5.76834" z="2.8998e-07" />
+		</node>
+		<node active="true" id="32" parent="3" type="0" level="2" >
+			<repobj radius="3.09845" x="17.0093" y="9.14998" z="2.05333e-07" />
+		</node>
+		<node active="true" id="38" parent="3" type="0" level="2" >
+			<repobj radius="3.7343" x="27.9393" y="3.37402" z="-4.8689e-08" />
+		</node>
+		<node active="true" id="18" parent="3" type="0" level="2" >
+			<repobj radius="2.46163" x="23.8594" y="3.24952" z="9.54677e-08" />
+		</node>
+		<node active="true" id="40" parent="3" type="0" level="2" >
+			<repobj radius="4.53398" x="17.2996" y="4.66919" z="1.41829e-07" />
+		</node>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.37713" innerRadius="0" outerRadius="0" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.9161" y="3.44492" z="3.42049e-07" distance="1.30817" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+			<answer x="19.2492" y="4.16994" z="1.38794e-07" distance="1.37713" />
+		</query>
+	</frame>
+	<frame id="13">
+		<comment>
+			Entering in the leaf node 19 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="19" />
+		</command>
+		<object active="true" x="18.3283" y="3.46294" z="1.10125e-07" level="2" parent="19" />
+		<object active="true" x="20.989" y="2.80095" z="1.14817e-07" level="2" parent="19" />
+		<object active="true" x="17.4494" y="6.4208" z="1.37994e-07" level="2" parent="19" />
+		<object active="true" x="19.2433" y="3.56038" z="2.12048e-07" level="2" parent="19" />
+		<object active="true" x="18.4468" y="1.60702" z="3.01749e-07" level="2" parent="19" />
+		<object active="true" x="16.0357" y="1.17892" z="9.78767e-08" level="2" parent="19" />
+		<object active="true" x="18.3698" y="2.77122" z="1.28231e-07" level="2" parent="19" />
+		<object active="true" x="19.1389" y="1.99567" z="2.50072e-07" level="2" parent="19" />
+		<object active="true" x="20.6735" y="2.74659" z="3.31135e-07" level="2" parent="19" />
+		<object active="true" x="15.868" y="2.43686" z="2.26516e-07" level="2" parent="19" />
+		<object active="true" x="20.7497" y="2.89284" z="2.73684e-07" level="2" parent="19" />
+		<object active="true" x="17.4427" y="4.4086" z="2.38862e-07" level="2" parent="19" />
+		<object active="true" x="17.4798" y="1.19478" z="2.04294e-07" level="2" parent="19" />
+		<object active="true" x="19.2191" y="7.1504" z="1.55117e-07" level="2" parent="19" />
+		<object active="true" x="20.7648" y="4.17591" z="-9.88881e-09" level="2" parent="19" />
+		<object active="true" x="16.0384" y="3.83481" z="1.18202e-07" level="2" parent="19" />
+		<object active="true" x="18.6886" y="1.47277" z="3.12116e-08" level="2" parent="19" />
+		<object active="true" x="16.8812" y="3.85069" z="2.05853e-07" level="2" parent="19" />
+		<object active="true" x="19.5761" y="2.38319" z="2.01611e-07" level="2" parent="19" />
+		<object active="true" x="18.0966" y="3.42778" z="2.07932e-07" level="2" parent="19" />
+		<object active="true" x="14.9185" y="2.67738" z="8.00656e-08" level="2" parent="19" />
+		<object active="true" x="18.7402" y="3.44517" z="2.74836e-07" level="2" parent="19" />
+		<object active="true" x="18.9222" y="4.07238" z="2.37416e-07" level="2" parent="19" />
+		<object active="true" x="20.2824" y="6.19417" z="1.35845e-07" level="2" parent="19" />
+	</frame>
+	<frame id="14">
+		<comment>
+			The result after the leaf node 19 at level 2 has 8 object(s) and radius 1.359485
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.35949" innerRadius="0" outerRadius="0" />
+			<answer x="20.7648" y="4.17591" z="-9.88881e-09" distance="0.4531" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.9161" y="3.44492" z="3.42049e-07" distance="1.30817" />
+			<answer x="20.7153" y="3.23079" z="2.29128e-07" distance="1.35949" />
+		</query>
+	</frame>
+	<frame id="15">
+		<comment>
+			Entering in the leaf node 40 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="40" />
+		</command>
+		<object active="true" x="17.2996" y="4.66919" z="1.41829e-07" level="2" parent="40" />
+		<object active="true" x="19.5089" y="3.73924" z="1.17725e-07" level="2" parent="40" />
+		<object active="true" x="18.9586" y="4.88212" z="1.26897e-07" level="2" parent="40" />
+		<object active="true" x="19.4608" y="5.71982" z="2.03943e-07" level="2" parent="40" />
+		<object active="true" x="15.9211" y="8.75171" z="1.85823e-07" level="2" parent="40" />
+		<object active="true" x="19.8559" y="3.15087" z="2.47585e-07" level="2" parent="40" />
+		<object active="true" x="16.2199" y="6.13447" z="8.63023e-08" level="2" parent="40" />
+		<object active="true" x="17.9226" y="7.27092" z="2.53963e-07" level="2" parent="40" />
+		<object active="true" x="16.1455" y="8.55267" z="1.82381e-07" level="2" parent="40" />
+		<object active="true" x="17.5684" y="9.04186" z="1.90669e-07" level="2" parent="40" />
+		<object active="true" x="19.3955" y="4.09371" z="3.24561e-07" level="2" parent="40" />
+		<object active="true" x="19.522" y="6.58772" z="2.30561e-07" level="2" parent="40" />
+		<object active="true" x="19.179" y="8.05472" z="8.15546e-08" level="2" parent="40" />
+		<object active="true" x="14.1894" y="4.79417" z="1.99715e-07" level="2" parent="40" />
+		<object active="true" x="14.5348" y="3.40523" z="5.59617e-08" level="2" parent="40" />
+		<object active="true" x="16.0395" y="3.47431" z="2.72406e-07" level="2" parent="40" />
+		<object active="true" x="18.5796" y="3.053" z="1.62758e-07" level="2" parent="40" />
+		<object active="true" x="13.9728" y="3.91695" z="2.67841e-07" level="2" parent="40" />
+		<object active="true" x="14.1578" y="2.7238" z="1.87775e-07" level="2" parent="40" />
+		<object active="true" x="14.1519" y="1.40586" z="1.38078e-07" level="2" parent="40" />
+		<object active="true" x="19.2819" y="2.56388" z="3.18844e-07" level="2" parent="40" />
+		<object active="true" x="21.4007" y="5.02872" z="2.29381e-07" level="2" parent="40" />
+		<object active="true" x="19.0463" y="2.79561" z="2.30364e-07" level="2" parent="40" />
+		<object active="true" x="20.9371" y="2.48614" z="2.59019e-08" level="2" parent="40" />
+	</frame>
+	<frame id="16">
+		<comment>
+			The result after the leaf node 40 at level 2 has 8 object(s) and radius 1.265741
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.26574" innerRadius="0" outerRadius="0" />
+			<answer x="20.7648" y="4.17591" z="-9.88881e-09" distance="0.4531" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="21.4007" y="5.02872" z="2.29381e-07" distance="0.94921" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.3955" y="4.09371" z="3.24561e-07" distance="1.26574" />
+		</query>
+	</frame>
+	<frame id="17">
+		<comment>
+			Entering in the leaf node 18 at level 2
+		</comment>
+		<command name="ACTIVATENODE">
+			<param name="nodeid" value="18" />
+		</command>
+		<object active="true" x="23.8594" y="3.24952" z="9.54677e-08" level="2" parent="18" />
+		<object active="true" x="21.7899" y="3.26697" z="1.09212e-08" level="2" parent="18" />
+		<object active="true" x="25.307" y="1.79216" z="3.90467e-07" level="2" parent="18" />
+		<object active="true" x="22.558" y="5.33905" z="3.00218e-07" level="2" parent="18" />
+		<object active="true" x="22.5888" y="4.59001" z="2.54019e-07" level="2" parent="18" />
+		<object active="true" x="23.9026" y="2.52957" z="1.83989e-07" level="2" parent="18" />
+		<object active="true" x="26.2015" y="3.76556" z="3.90836e-07" level="2" parent="18" />
+	</frame>
+	<frame id="18">
+		<comment>
+			The result after the leaf node 18 at level 2 has 8 object(s) and radius 1.265741
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.26574" innerRadius="0" outerRadius="0" />
+			<answer x="20.7648" y="4.17591" z="-9.88881e-09" distance="0.4531" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="21.4007" y="5.02872" z="2.29381e-07" distance="0.94921" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.3955" y="4.09371" z="3.24561e-07" distance="1.26574" />
+		</query>
+	</frame>
+	<frame id="19">
+		<comment>
+			The final result has 8 object(s) and radius 1.265741
+		</comment>
+		<query>
+			<sample x="20.5634" y="4.58176" z="2.31909e-07" k="8" radius="1.26574" innerRadius="0" outerRadius="0" />
+			<answer x="20.7648" y="4.17591" z="-9.88881e-09" distance="0.4531" />
+			<answer x="20.3588" y="4.09487" z="1.96245e-07" distance="0.52811" />
+			<answer x="21.045" y="3.87396" z="1.14087e-07" distance="0.856154" />
+			<answer x="21.1372" y="5.28917" z="2.82337e-07" distance="0.910879" />
+			<answer x="21.4007" y="5.02872" z="2.29381e-07" distance="0.94921" />
+			<answer x="19.7501" y="4.08666" z="1.73658e-07" distance="0.952103" />
+			<answer x="20.5255" y="5.68456" z="2.26881e-07" distance="1.10345" />
+			<answer x="19.3955" y="4.09371" z="3.24561e-07" distance="1.26574" />
+		</query>
+	</frame>
+</animation>

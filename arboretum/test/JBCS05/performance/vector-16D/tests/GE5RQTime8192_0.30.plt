@@ -1,0 +1,83 @@
+set title "RQ: Synt16D"
+set xlabel "% radius"
+set ylabel "Total Time (s)"
+set xrange [0.0001:0.1]
+set logscale x
+plot '-' title 'MTree-Minmax' with linespoints lt 6 lw 2 pt 5, '-' title 'SlimTree-MinMax-SlimDown' with linespoints lt 8 lw 2 pt 11, '-' title 'DBMTree-0' with linespoints lt 1 lw 2 pt 1, '-' title 'DBMTree-1' with linespoints lt 2 lw 2 pt 2, '-' title 'DBMTree-2' with linespoints lt 3 lw 2 pt 3, '-' title 'DBMTree-3' with linespoints lt 4 lw 2 pt 4
+
+####################
+# MTree-Minmax
+0.0001	200
+0.000215443	210
+0.000464159	200
+0.001	220
+0.00215443	220
+0.00464159	240
+0.01	300
+0.0215443	390
+0.0464159	590
+0.1	840
+end
+# SlimTree-MinMax-SlimDown
+0.0001	160
+0.000215443	170
+0.000464159	160
+0.001	170
+0.00215443	180
+0.00464159	190
+0.01	240
+0.0215443	340
+0.0464159	520
+0.1	790
+end
+# DBMTree-0
+0.0001	120
+0.000215443	110
+0.000464159	120
+0.001	130
+0.00215443	130
+0.00464159	150
+0.01	200
+0.0215443	290
+0.0464159	470
+0.1	680
+end
+# DBMTree-1
+0.0001	120
+0.000215443	110
+0.000464159	120
+0.001	120
+0.00215443	130
+0.00464159	150
+0.01	190
+0.0215443	290
+0.0464159	470
+0.1	710
+end
+# DBMTree-2
+0.0001	140
+0.000215443	140
+0.000464159	140
+0.001	140
+0.00215443	160
+0.00464159	170
+0.01	210
+0.0215443	300
+0.0464159	490
+0.1	740
+end
+# DBMTree-3
+0.0001	130
+0.000215443	130
+0.000464159	140
+0.001	130
+0.00215443	150
+0.00464159	170
+0.01	200
+0.0215443	290
+0.0464159	460
+0.1	700
+end
+
+
+pause -1

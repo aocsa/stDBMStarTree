@@ -1,0 +1,2 @@
+Cities 1024 40.5461 0.35 10 Br 3 1.81 ../../../../../datasets/CitiesResto.txt ../../../../../datasets/Cities500.txt
+Cities 1024 115.707 0.35 10 US 10 1.80 ../../../../../datasets/USCitiesResto.txt ../../../../../datasets/USCities500.txt

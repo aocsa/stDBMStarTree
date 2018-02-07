@@ -1,0 +1,1 @@
+Vector 4096 7 4.62 0.500625 EF true 0.3 3 ../../../../../../datasets/LyfnmpResto.txt ../../../../../../datasets/Lyfnmp500.txt

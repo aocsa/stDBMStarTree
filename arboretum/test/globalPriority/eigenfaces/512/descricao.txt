@@ -1,0 +1,7 @@
+Height: 11
+Object Count: 11900
+Root: 5617
+Page Count: 9382
+Page size: 512
+Max Occupation: Leaf 3
+	Index 3

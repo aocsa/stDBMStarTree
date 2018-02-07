@@ -1,0 +1,1 @@
+testBulkSlim.exe > log.txt

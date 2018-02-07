@@ -1,0 +1,9 @@
+USEUNIT("main.cpp");
+USEUNIT("app.cpp");
+USEUNIT("city.cpp");
+USE("mamdefs.h", File);
+USELIB("..\..\..\lib\arboretum.lib");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

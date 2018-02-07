@@ -1,0 +1,44 @@
+Qual seu grau de conhecimento do algoritmo de consulta ?
+
+Fase A
+======
+
+Quanto tempo foi necessário para compreender os princípios de intalação do extrator ?
+	Até 10m
+	Entre 10~20
+	Entre 20~30
+	Não consegui
+
+Quanto tempo foi necessário para a intalação do extrator ?
+	Até 10m
+	Entre 10~20
+	Entre 20~30
+	Não consegui
+
+Foi necessário refinar a instalação inicial ?
+	Sim/Não
+
+Qual foi a dificuldade para compreender o algoritmo utilizando a ferramenta visual [0-5]?
+
+Fase B
+======
+
+Você utilizou a ferramenta e o Dump textual simultâneamente ?
+
+As ferramentas podem ser consideradas complementares?
+
+Qual o grau de dependência entre os dumps textuais e o visual ?
+	Independente
+	Baixo
+	Complementares
+	Alto
+	
+Em qual ordem as ferramentas devem ser utilizadas ?
+	O textual é o guia do visual
+	O visual é o guia do textual
+	complementares
+
+Em caso de disponibilidade de apenas uma delas, qual seria a escolhida ?
+
+Sugetões de melhoria para ambas as ferramentas:
+

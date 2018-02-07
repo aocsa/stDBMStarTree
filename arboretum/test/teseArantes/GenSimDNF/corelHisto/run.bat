@@ -1,0 +1,1 @@
+corelHisto 8192 1.40086 10 5 CH ../../../../../datasets/ColorHistogramResto.asc ../../../../../datasets/ColorHistogram_500.asc ../../../../../datasets/ColorHistogram_500_2.asc ../../../../../datasets/ColorHistogram_500_3.asc

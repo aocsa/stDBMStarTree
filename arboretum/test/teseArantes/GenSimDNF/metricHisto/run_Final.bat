@@ -1,0 +1,1 @@
+metricHisto 8192 5.352 10 7 MH ../../../../../datasets/reduzidos_4247.txt ../../../../../datasets/reduzidos_4247_500.txt ../../../../../datasets/reduzidos_4247_500_2.txt ../../../../../datasets/reduzidos_4247_500_3.txt

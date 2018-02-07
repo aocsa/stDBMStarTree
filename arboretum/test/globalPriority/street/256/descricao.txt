@@ -1,0 +1,19 @@
+LBeach
+
+Height: 8
+Object Count: 36548
+Root: 3523
+Page Count: 10410
+Page size: 256
+Max Occupation: Leaf 8
+		Index 6
+
+MGCounty
+
+Height: 8
+Object Count: 27282
+Root: 3232
+Page Count: 8017
+Page size: 256
+Max Occupation: Leaf 8
+		Index 6

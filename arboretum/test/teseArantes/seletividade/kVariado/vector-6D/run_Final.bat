@@ -1,0 +1,2 @@
+Vector 4096 7 5.9 0.92 Rd true 0.3 3 ../../../../../../datasets/Random50k_6DResto.txt ../../../../../../datasets/Random50k_6D500.txt
+Vector 4096 7 1.97 40.80 Cu true 0.3 3 ../../../../../../datasets/currencyNrmResto.txt ../../../../../../datasets/currencyNrm500.txt

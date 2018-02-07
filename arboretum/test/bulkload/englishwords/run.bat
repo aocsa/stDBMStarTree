@@ -1,0 +1,1 @@
+testBulkSlim.exe 4096 1.0 6 6 > log.txt

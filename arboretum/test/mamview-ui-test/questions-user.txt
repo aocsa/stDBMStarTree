@@ -1,0 +1,48 @@
+Qual seu grau de conhecimento do algoritmo de consulta ?
+
+Fase A
+======
+
+Qual foi a seqüencia de nós percorridos ?
+
+Qual foi a dificuldade para encontrar a seqüência [0-5]?
+
+Quanto tempo foi necessário ?
+	Até 10m
+	Entre 10~20
+	Entre 20~30
+	Não consegui
+
+Fase B
+======
+
+Qual foi a seqüencia de nós percorridos ?
+
+Qual foi a dificuldade para encontrar a seqüência [0-5]?
+
+Quanto tempo foi necessário ?
+	Até 10m
+	Entre 10~20
+	Entre 20~30
+	Não consegui
+
+Fase C
+======
+
+As ferramentas podem ser consideradas complementares?
+
+Qual o grau de dependência entre os dumps textuais e o visual ?
+	Independente
+	Baixo
+	Complementares
+	Alto
+	
+Em qual ordem as ferramentas devem ser utilizadas ?
+	O textual é o guia do visual
+	O visual é o guia do textual
+	complementares
+
+Em caso de disponibilidade de apenas uma delas, qual seria a escolhida ?
+
+Sugetões de melhoria para ambas as ferramentas:
+

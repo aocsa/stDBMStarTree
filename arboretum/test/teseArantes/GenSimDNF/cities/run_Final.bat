@@ -1,0 +1,1 @@
+Cities 1024 40.7008 10 7 Ct ../../../../../datasets/citiesIpeaResto.txt ../../../../../datasets/CitiesIpea500.txt ../../../../../datasets/CitiesIpea500_2.txt ../../../../../datasets/CitiesIpea500_3.txt

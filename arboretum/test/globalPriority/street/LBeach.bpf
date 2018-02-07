@@ -1,0 +1,8 @@
+USEUNIT("LBeach.cpp");
+USEUNIT("points.cpp");
+USEUNIT("appLB.cpp");
+USELIB("..\..\..\lib\slimtree.lib");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

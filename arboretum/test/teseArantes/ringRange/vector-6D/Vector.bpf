@@ -1,0 +1,8 @@
+USEUNIT("Vector.cpp");
+USEUNIT("app.cpp");
+USEUNIT("..\..\resultMeasure.cpp");
+USELIB("..\..\..\..\lib\arboretum.lib");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

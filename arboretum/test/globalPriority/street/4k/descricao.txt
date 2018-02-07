@@ -1,0 +1,15 @@
+LBeach
+
+Height: 3
+Object Count: 36548
+Root: 96
+Page Count: 436
+Page size: 4096
+
+MGCounty
+
+Height: 3
+Object Count: 27282
+Root: 96
+Page Count: 329
+Page size: 4096

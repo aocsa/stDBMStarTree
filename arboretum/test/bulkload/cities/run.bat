@@ -1,0 +1,1 @@
+testBulkSlim.exe 1024 1.0 6 6

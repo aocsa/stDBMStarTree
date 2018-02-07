@@ -1,0 +1,10 @@
+USEUNIT("main.cpp");
+USE("..\..\include\slimtree\stFastMapper.cc", File);
+USE("..\..\include\slimtree\stFastMapper.h", File);
+USEUNIT("fmutil.cpp");
+USEUNIT("dataloader.cpp");
+USE("..\..\include\slimtree\stUtil.h", File);
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

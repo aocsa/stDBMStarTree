@@ -1,0 +1,18 @@
+1-[Pittsburgh city-PA, 40.4414, -79.9773]: 
+	stkNNQ1_USCities.mva: k=10
+	stRQ1_USCities.mva: rq=0.6
+2-[Washington city-DC, 38.9136,	-77.0132]
+	stkNNQ2_USCities.mva: k=15
+	stRQ2_USCities.mva: rq=1.0
+3-[Palm City CDP-FL, 27.1711, -80.2787]
+	stkNNQ3_USCities.mva: k=20
+	stRQ3_USCities.mva: rq=0.4
+4-[Seattle city-WA, 47.6264, -122.333]
+	stkNNQ4_USCities.mva: k=7
+	stRQ4_USCities.mva: rq=0.5
+5-[Sacramento city-CA, 38.5556, -121.469]
+	stkNNQ5_USCities.mva: k=8
+	stRQ5_USCities.mva: rq=1.2
+6-[Honolulu CDP-HI, 21.3089, -157.826]
+	stkNNQ6_USCities.mva: k=9
+	stRQ6_USCities.mva: rq=0.8

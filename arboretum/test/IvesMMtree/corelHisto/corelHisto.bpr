@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="corelHisto.exe"/>
+    <OBJFILES value="corelMain.obj app.obj resultMeasure.obj"/>
+    <RESFILES value=""/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES)"/>
+    <LIBFILES value="..\..\..\lib\arboretum.lib"/>
+    <LIBRARIES value="vcl.lib rtl.lib"/>
+    <SPARELIBS value="rtl.lib vcl.lib"/>
+    <PACKAGES value="rtl.bpi vcl.bpi bcb2kaxserver.bpi bcbie.bpi vclx.bpi bcbsmp.bpi dsnap.bpi 
+      inet.bpi inetdb.bpi dbrtl.bpi vcldb.bpi bdertl.bpi vcldbx.bpi adortl.bpi 
+      dss.bpi teeui.bpi teedb.bpi tee.bpi ibxpress.bpi vclie.bpi nmfast.bpi 
+      dclocx.bpi qrpt.bpi teeqr.bpi webdsnap.bpi rcpkg50.bpi ibsmp.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT;_NO_VCL"/>
+    <MAINSOURCE value="corelHisto.bpf"/>
+    <INCLUDEPATH value="..;$(BCB)\include;$(BCB)\include\vcl;..\..\..\include"/>
+    <LIBPATH value="..;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-src_suffix cpp -D_DEBUG -I.. -I$(BCB)\include -I$(BCB)\include\vcl 
+      -I..\..\..\include -boa"/>
+    <CFLAG1 value="-Od -H=d:\ARQUIV~1\borland\CBUILD~1\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 
+      -6 -b- -k -y -v -vi- -tWC -tWM -c"/>
+    <PFLAGS value="-$Y+ -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-D&quot;&quot; -ap -Tpe -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0x32.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cw32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="corelHisto.bpf" FORMNAME="" UNITNAME="corelHisto" CONTAINERID="BPF" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="corelMain.cpp" FORMNAME="" UNITNAME="corelMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="app.cpp" FORMNAME="" UNITNAME="app" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\lib\arboretum.lib" FORMNAME="" UNITNAME="arboretum" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="resultMeasure.cpp" FORMNAME="" UNITNAME="resultMeasure" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1046
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=6
+Item0=..;$(BCB)\include;$(BCB)\include\vcl;..\..\..\include
+Item1=..\;$(BCB)\include;$(BCB)\include\vcl;..\..\..\include
+Item2=$(BCB)\include;$(BCB)\include\vcl;..\..\..\include
+Item3=$(BCB)\include;$(BCB)\include\vcl;D:\Trees\slimtree\include
+Item4=$(BCB)\include;$(BCB)\include\vcl;..\..\include
+Item5=..\..\test\insertion;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=4
+Item0=..;$(BCB)\lib\obj;$(BCB)\lib
+Item1=..\;$(BCB)\lib\obj;$(BCB)\lib
+Item2=$(BCB)\lib\obj;$(BCB)\lib
+Item3=..\..\test\insertion;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=2
+Item0=c:\program files\borland\cbuilder5\source\vcl;D:\Trees\slimtree\include\slimtree\
+Item1=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=6
+Item0=_DEBUG
+Item1=__stDEBUG__
+Item2=__stDEBUG__;_DEBUG
+Item3=__stDEBUG__2;_DEBUG
+Item4=__stDEBUG__2
+Item5=__stDEBUG__1
+
+[Debugging]
+DebugSourceDirs=c:\program files\borland\cbuilder5\source\vcl;D:\Trees\slimtree\include\slimtree\
+
+[Parameters]
+RunParams=8192 40 mm 100 ColorHistogram_100.asc ColorHistogram_10.asc
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=1
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

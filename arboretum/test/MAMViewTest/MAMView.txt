@@ -1,0 +1,153 @@
+	TESTE II: MAMVIEW
+
+Total de Participantes: 19 (sendo 2 da graduação)
+
+
+	Parte A - SlimDump
+
+A1 - Esta pergunta avaliou se o usuário tinha conhecimentos
+se uma determinada consulta acessava um determinado nó da 
+estrutura, utilizando apenas o Dump de uma arvore com 500 objetos.
+Todos os usuários necessitaram de ajuda para saber como o algoritmo kNNq
+funcionava (prioridade de análise de subárvores e raio dinâmico). 
+Na média, os usuários levaram 25 minutos para responder esta pergunta (Pergunta
+bem trabalhosa).
+	17 - Respostas Corretas
+	2 - não sabiam responder
+
+A2 - Esta pergunta avaliou se o usuário conseguia saber se existia 
+sobreposição analisando apenas o SlimDump (sobreposição de um mesmo 
+nível mas com pais distintos). Todas as pessoas antes de responderem
+a esta questão recorreram ao instrutor para tirar dúvidas em relação a 
+pergunta e como analisar sobreposição do SlimDump.
+Esta questão avaliou bem o nível de conhecimento dos usuários em relação
+a estruturas métricas (bem difícil!).
+	0 - Respondeu corretamente
+	7 - Não sabiam responder
+	12 - Erradas
+
+
+	Parte B - MAMView
+
+B1 - Mesma pergunta que a A1, porém utilizando somente o MAMView.
+	Todos responderam corretamente, pois a ferramenta mostra na 
+animação da consulta o nó perguntado sendo visitado.
+
+B2 - Mesma pergunta que a A2, porém utilizando somente o MAMView.
+	18 responderam corretamente. A justificativa dos entrevistados 
+foi que era possível visualizar a sobreposição de subárvores de pais 
+distintos.
+	Apenas 1 entrevistado respondeu que não sabia.
+
+B3 - Esta pergunta avaliou se os usuários conseguiam conciliar as 2 
+ferramentas (SlimDump e MAMView) para responder quais são os 5 primeiros
+objetos inseridos no conjunto responta da consulta kNNq com k=8. Embora 
+seja possível visualizar os 5 primeiros objetos inseridos no 
+conjunto resposta, não é possível saber quem são apenas utilizando o 
+MAMView. Porém, através das informações do MAMView é possível utilizar
+o SlimDump para obter as informações requisitadas.
+Esta pergunta mediu se os entrevistados entederam as diferentes finalidades 
+das 2 ferramentas, inclusive a deficiência do MAMView (Identificação de 
+objetos através da seleção em uma determinada visualização).
+	10 - corretas
+	5 - quase que interamente corretas
+	4 - Pessoas que não conciliaram as 2 ferramentas e, conseqüentemente,
+não conseguiram respoder
+OBS: A grande maioria das pessoas perguntou se era possível "clicar" no
+objeto e obter as informações dele. Algumas dessas pessoas sugeriu isto
+para uma futura versão da ferramenta. Pergunta bem complexa para usuários
+iniciantes das 2 ferramentas e de estruturas métricas.
+
+
+	Parte C - Gerais
+
+c1 - Qual o nível de conhecimento de estruturas métricas?
+	9 - Muito Baixo
+	6 - Baixo
+	4 - Médio
+	0 - Alto
+	0 - Muito Alto
+
+c2 - Qual o nível de conhecimento sobre o algoritmo kNNq?
+	9 - Muito Baixo
+	3 - Baixo
+	5 - Médio
+	1 - Alto
+	1 - Muito Alto
+
+c3 - Qual o nível de dificuldade para responder as questões da 
+parte A (SlimDump)?
+	0 - Muito Baixo
+	3 - Baixo
+	6 - Médio
+	6 - Alto
+	4 - Muito Alto
+
+c4 - Qual o nível de conhecimento para responder as questões da 
+parte A (SlimDump)?
+	1 - Muito Baixo
+	1 - Baixo
+	7 - Médio
+	8 - Alto
+	2 - Muito Alto
+
+c5 - Qual o nível de dificuldade para responder as questões da 
+parte B (MAMView)?
+	1 - Muito Baixo
+	12 - Baixo
+	4 - Médio
+	2 - Alto
+	0 - Muito Alto
+
+c6 - Qual o nível de conhecimento para responder as questões da 
+parte B (MAMView)?
+	2 - Muito Baixo
+	6 - Baixo
+	10 - Médio
+	1 - Alto
+	0 - Muito Alto
+
+c7 - Você acha que o uso do MAMViewer melhorou a sua compreensão 
+sobre as estruturas métricas?
+	0 - Muito Baixo
+	1 - Baixo
+	2 - Médio
+	9 - Alto
+	7 - Muito Alto
+
+c8 - Ao acompanhar um procedimento de consulta com o Dump visual 
+e o textual, pode-se afirmar que:
+	2 - Ambas são independentes e podem ser utilizadas 
+separadamente para os mesmos propósitos
+	17 - Ambas têm funcionalidades distintas que se complementam
+	0 - Utilizar apenas o visual é suficiente
+	0 - Utilizar apenas o textual é suficiente
+	0 - Não é possível afirmar nada
+
+c9 - De que forma as ferramentas podem ser combinadas:
+	5 - O visual serve de guia para o textual
+	9 - O visual é complementado pelo textual
+	1 - O textual serve de guia para o visual
+	4 - O textual é complementado pelo visual
+	0 - Não podem ser combinadas
+
+c10 - Comentários diversos sobre o questionário
+	Algumas pessoas relataram que o questonionário foi bem 
+elaborado e objetivo
+
+c11 - Sugestões de melhoria para ambas as ferramentas
+	MAMView: Ferramenta muito interessante e útil. Ajudou no entendimento
+de estruturas métricas e do algoritmo kNNq.
+	Identificar os objetos a partir de uma seleção.
+	No SlimDump, os objetos poderiam estar ordenados em relação ao
+objeto de consulta (São Carlos).
+	Opção tail poderia ser default.
+	Utilizar cores mais distintas entre os níveis.
+
+
+	Comentários Gerais do Instrutor
+
+	Os usuários que fizeram o primeiro questionário relataram que o 
+segundo questionário foi mais simples, objetivo, e que conseguiu demonstrar 
+para o usuário as diferenças entre as duas ferramentas através de esforços 
+despendidos por eles para responder as questões.

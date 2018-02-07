@@ -1,0 +1,1 @@
+corelHisto 8192 0.70043 3 3 1 7 true CH ../../../../../datasets/ColorHistogramResto.asc ../../../../../datasets/ColorHistogram_500.asc

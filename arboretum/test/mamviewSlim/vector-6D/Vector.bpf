@@ -1,0 +1,14 @@
+USEUNIT("main.cpp");
+USEUNIT("app.cpp");
+USE("mamdefs.h", File);
+USELIB("..\..\..\lib\arboretum.lib");
+USE("..\..\..\include\arboretum\stDBMTree.cc", File);
+USE("..\..\..\include\arboretum\stDBMTree.h", File);
+USE("..\..\..\include\arboretum\stMAMView.h", File);
+USE("..\..\..\include\arboretum\stMAMView.cc", File);
+USE("..\..\..\include\arboretum\stUtil.h", File);
+USEUNIT("points.cpp");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

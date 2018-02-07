@@ -1,0 +1,27 @@
+MAKE Version 5.2  Copyright (c) 1987, 2000 Borland
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+.\Cities.cpp:
+Warning W8026 .\city.h 99: Functions taking class-by-value argument(s) are not expanded inline in function TCity::TCity(const string,double,double)
+.\city.cpp:
+Warning W8026 .\city.h 99: Functions taking class-by-value argument(s) are not expanded inline in function TCity::TCity(const string,double,double)
+.\app.cpp:
+Loaded pre-compiled headers.
+Warning W8026 .\city.h 99: Functions taking class-by-value argument(s) are not expanded inline in function TCity::TCity(const string,double,double)
+Warning W8012 .\app.cpp 286: Comparing signed and unsigned values in function TApp::NearestQuery(ResultMeasure *,ResultMeasure *)
+Warning W8037 .\app.cpp 291: Non-const function TCity::Clone() called for const object in function TApp::NearestQuery(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 304: Comparing signed and unsigned values in function TApp::NearestQuery(ResultMeasure *,ResultMeasure *)
+Warning W8037 .\app.cpp 309: Non-const function TCity::Clone() called for const object in function TApp::NearestQuery(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 347: Comparing signed and unsigned values in function TApp::NearestIntersectionQuery(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 366: Comparing signed and unsigned values in function TApp::NearestIntersectionQuery(ResultMeasure *,ResultMeasure *)
+Warning W8004 ..\..\..\..\include\arboretum/stResult.cc 232: 'result' is assigned a value that is never used in function stResult<TCity>::Intersection(stResult<TCity> *,stResult<TCity> *)
+Warning W8004 ..\..\..\..\include\arboretum/stDummyTree.cc 138: 'id' is assigned a value that is never used in function stDummyTree<TCity,TCityDistanceEvaluator>::Add(TCity *)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 109: Comparing signed and unsigned values in function stResult<TCity>::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 116: Comparing signed and unsigned values in function stResult<TCity>::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimNode.cc 111: Comparing signed and unsigned values in function stSlimMemLeafNode<TCity>::ReleaseNode()
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2499: Comparing signed and unsigned values in function stSlimTree<TCity,TCityDistanceEvaluator>::GetCiacciaLevelEstimateDiskAccesses(stLevelDiskAccess *,double,stHistogram<TCity,TCityDistanceEvaluator> *)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2586: Comparing signed and unsigned values in function stSlimTree<TCity,TCityDistanceEvaluator>::GetTestLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<TCity,TCityDistanceEvaluator> * *,double)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2677: Comparing signed and unsigned values in function stSlimTree<TCity,TCityDistanceEvaluator>::GetSampledLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<TCity,TCityDistanceEvaluator> * *,double)
+Warning W8004 ..\..\..\..\include\arboretum/stSlimTree.cc 1929: 'distanceTemp' is assigned a value that is never used in function stSlimTree<TCity,TCityDistanceEvaluator>::GetDistanceLimit()
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+..\..\resultMeasure.cpp:
+Turbo Incremental Link 5.00 Copyright (c) 1997, 2000 Borland

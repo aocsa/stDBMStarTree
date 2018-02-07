@@ -1,0 +1,49 @@
+     Coordenador: Fábio e Marcos
+
+Grupo 1 - Desenvolvedores de MAM (debugging)
+     Marcos
+     Enzo
+     Humberto
+     Ives
+     Renato
+     Adriano
+     Josiel
+     Caetano
+     Agma
+
+Grupo 2 - Usuários de MAM (aprendizagem)
+     Josiane
+     Ana Paula
+     Myriam Renata
+     Elaine
+     Gisele
+     Joaquim
+     Júnior
+     Marcela
+     Camila
+     Joselene
+     Luis Marcelo
+     André
+     Mônica
+     João Paulo
+     Carolina
+     Mário Jorge
+     Adriano Paterlini
+     Rodrigo
+
+     Considerando:
+     - Conhecimento / Aprendizagem da Estrutura que está sendo desenvolvida
+     - Avaliar consistência, integridade
+     - Usar: Ferramenta Visual X  Dump Textual (hipertxto)
+     - Tempo restrito!
+
+Experimentos Grupo 1 (Desenvolvedores)
+     - Criação do ambiente utilizando exemplo dado
+     - Criação da árvore 
+     - acompanhamento de consultas (incluir condição espúria, verificar erro!)
+     - Possibilidade de otimizar consulta
+
+Experimentos Grupo 2 (Aprendizagem)
+     - Criação da árvore (MamViewer já configurado)
+     - acompanhamento de consultas simples
+

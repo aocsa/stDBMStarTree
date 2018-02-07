@@ -1,0 +1,69 @@
+Brazilian Cities
+	Nro. Objs: 5257
+	Mean Object Size: 30.600342
+	Page size: 1024
+					SeqScan		SlimTree
+	Height: 			0		4
+	Maximum Entries per Node: 	31		25
+	Page Count: 			183		417
+	File Size: 			188416		428032
+
+MetricHistogram
+	Nro. Objs: 4247
+	Mean Object Size: 263.822934
+	Page size: 8192
+					SeqScan		SlimTree
+	Height: 			0		3
+	Maximum Entries per Node: 	34		42
+	Page Count: 			142		250
+	File Size: 			1171456		2056192
+
+MGCounty
+	Nro. Objs: 27032
+	Mean Object Size: 20
+	Page size: 1024
+					SeqScan		SlimTree
+	Height: 			0		4
+	Maximum Entries per Node: 	42		31
+	Page Count: 			644		1586
+	File Size: 			660480		1625088
+
+Currency
+	Nro. Objs: 2061
+	Mean Object Size: 52
+	Page size: 4096
+					SeqScan		SlimTree
+	Height: 			0		3
+	Maximum Entries per Node: 	73		63
+	Page Count: 			29		59
+	File Size: 			122880		245760
+
+Random6D
+	Nro. Objs: 49750
+	Mean Object Size: 52
+	Page size: 4096
+					SeqScan		SlimTree
+	Height: 			0		3
+	Maximum Entries per Node: 	73		63
+	Page Count: 			682		1259
+	File Size: 			2797568		5160960
+
+PortugueseWords
+	Nro. Objs: 24643
+	Mean Object Size: 11.218683
+	Page size: 1024
+					SeqScan		SlimTree
+	Height: 			0		6
+	Maximum Entries per Node: 	70		53
+	Page Count: 			372		3172
+	File Size: 			381952		3249152
+
+Sintetico30D
+	Nro. Objs: 1000000
+	Mean Object Size: 244
+	Page size: 4096
+					SeqScan		SlimTree
+	Height: 			0		6
+	Maximum Entries per Node: 	16		15
+	Page Count: 			62500		135483
+	File Size: 			256004096	554942464

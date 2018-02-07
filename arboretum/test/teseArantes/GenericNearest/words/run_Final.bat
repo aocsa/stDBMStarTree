@@ -1,0 +1,1 @@
+Words 1024 1 7 false EG ../../../../../datasets/EnglishResto.txt ../../../../../datasets/English500.txt

@@ -1,0 +1,1 @@
+MetricHisto 4096 5.352 0.25 19 10 MH 3 ../../../../../datasets/reduzidos_4247.txt ../../../../../datasets/reduzidos_4247_500.txt

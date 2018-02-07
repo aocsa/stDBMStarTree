@@ -1,0 +1,1 @@
+..\..\tools\dbGains\dbGain 2 *.plt

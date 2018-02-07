@@ -1,0 +1,34 @@
+
+
+MetricTreeMTree
+	Height: 4
+	Objs Count: 67790
+	Radius Tree: -1
+	Maximum Entries per Node: -1
+	Minimum Occupation per Node: 0.250000
+	Page Count: 3794
+	Page size: 8192
+	Mean Object Size: 260.000000
+	Total Time Construction: 159571
+
+MetricTreeSlimDown
+	Height: 4
+	Objs Count: 67790
+	Radius Tree: -1
+	Maximum Entries per Node: -1
+	Minimum Occupation per Node: 0.250000
+	Page Count: 3464
+	Page size: 8192
+	Mean Object Size: 260.000000
+	Total Time Construction: 161238
+
+MetricTreeDBM[3]
+	Height: 4
+	Objs Count: 67790
+	Radius Tree: 2.000703
+	Maximum Entries per Node: 29
+	Minimum Occupation per Node: 0.500000
+	Page Count: 3826
+	Page size: 8192
+	Mean Object Size: 260.000000
+	Total Time Construction: 19698

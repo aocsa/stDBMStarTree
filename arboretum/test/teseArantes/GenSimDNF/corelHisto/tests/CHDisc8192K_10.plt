@@ -1,0 +1,80 @@
+set title "MetricHisto Queries-page:8192"
+set logscale xy
+set xlabel "% dataset"
+set ylabel "# AVG Disc Access"
+plot '-' title 'Generic Algorithms - Slim-Tree' with linespoints lt 1 lw 2 pt 1, '-' title 'Generic Algorithm - Seq-Scan' with linespoints lt 2 lw 2 pt 2, '-' title 'Basic Algorithms - Slim-Tree' with linespoints lt 3 lw 2 pt 3, '-' title 'Basic Algorithms - Seq-Scan' with linespoints lt 4 lw 2 pt 4, '-' title 'Range - Slim' with linespoints lt 5 lw 2 pt 5, '-' title 'Range - Seq-Scan' with linespoints lt 6 lw 2 pt 6, '-' title 'Nearest - Slim' with linespoints lt 7 lw 2 pt 7, '-' title 'Nearest - Seq-Scan' with linespoints lt 8 lw 2 pt 8, '-' title 'Single KAndRange - Slim' with linespoints lt 9 lw 2 pt 9, '-' title 'Single KAndRange - Seq-Scan' with linespoints lt 10 lw 2 pt 10, '-' title 'Single Nearest Intersection Range - Slim' with linespoints lt 11 lw 2 pt 11, '-' title 'Single Nearest Intersection Range - Seq-Scan' with linespoints lt 12 lw 2 pt 12
+
+0.001000	1095.000000
+0.002000	1193.000000
+0.005000	1565.000000
+0.010000	2038.000000
+0.020000	2087.000000
+end
+0.001000	6561.000000
+0.002000	6561.000000
+0.005000	6561.000000
+0.010000	6561.000000
+0.020000	6561.000000
+end
+0.001000	10026.000000
+0.002000	10124.000000
+0.005000	10515.000000
+0.010000	11475.000000
+0.020000	14447.000000
+end
+0.001000	13122.000000
+0.002000	13122.000000
+0.005000	13122.000000
+0.010000	13122.000000
+0.020000	13122.000000
+end
+0.001000	318.000000
+0.002000	350.000000
+0.005000	464.000000
+0.010000	733.000000
+0.020000	1576.000000
+end
+0.001000	2187.000000
+0.002000	2187.000000
+0.005000	2187.000000
+0.010000	2187.000000
+0.020000	2187.000000
+end
+0.001000	2771.000000
+0.002000	2771.000000
+0.005000	2771.000000
+0.010000	2771.000000
+0.020000	2771.000000
+end
+0.001000	2187.000000
+0.002000	2187.000000
+0.005000	2187.000000
+0.010000	2187.000000
+0.020000	2187.000000
+end
+0.001000	318.000000
+0.002000	350.000000
+0.005000	460.000000
+0.010000	596.000000
+0.020000	623.000000
+end
+0.001000	2187.000000
+0.002000	2187.000000
+0.005000	2187.000000
+0.010000	2187.000000
+0.020000	2187.000000
+end
+0.001000	3089.000000
+0.002000	3121.000000
+0.005000	3235.000000
+0.010000	3504.000000
+0.020000	4347.000000
+end
+0.001000	4374.000000
+0.002000	4374.000000
+0.005000	4374.000000
+0.010000	4374.000000
+0.020000	4374.000000
+end
+
+pause -1

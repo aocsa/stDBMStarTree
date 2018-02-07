@@ -1,0 +1,8 @@
+USEUNIT("citiesMain.cpp");
+USEUNIT("city.cpp");
+USELIB("..\..\..\lib\slimtree.lib");
+USEUNIT("app.cpp");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

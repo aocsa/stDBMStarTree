@@ -1,0 +1,49 @@
+Functions called:
+ getchar (1 times)
+ printf (1 times)
+ close (4 times)
+ memcmp (24 times)
+ write (8674 times)
+ sqrt (3576131 times)
+ ceil (617 times)
+ memmove (1946246 times)
+ strlen (179615 times)
+ memset (759 times)
+ lseek (343849 times)
+ read (335183 times)
+ open (4 times)
+ strcat (8 times)
+ strcpy (4 times)
+ sprintf (2 times)
+ time (1 times)
+ atof (1 times)
+ atoi (3 times)
+ realloc (1 times)
+ memcpy (957699 times)
+ delete (1303206 times)
+ delete[] (100108 times)
+ free (37 times)
+ new[] (100120 times)
+ new (1303235 times)
+ calloc (5 times)
+ malloc (31 times)
+Resource types used:
+ file handle (4 allocs, 4 max)
+ object array (100120 allocs, 1076 max)
+ object (1303235 allocs, 1312 max)
+ memory block (37 allocs, 12 max)
+Modules used:
+ 00330000 02/01/2002 11:00:00 C:\ARQUIV~1\Borland\CBUILD~1\Bin\STLP45.DLL
+ 00400000 02/28/2007 00:33:28
+ D:\Mestrado\gbdicvs\arboretum\arboretum\test\bulkload\cities\testBulkSlim.exe
+
+ 0CD00000 02/01/2002 11:00:00 C:\ARQUIV~1\Borland\CBUILD~1\Bin\CG32.DLL
+ 32600000 02/01/2002 11:00:00 C:\ARQUIV~1\Borland\CBUILD~1\Bin\CC3260.DLL
+ 76360000 08/04/2004 00:45:24 C:\WINDOWS\system32\IMM32.DLL
+ 77D20000 03/02/2005 15:18:26 C:\WINDOWS\system32\USER32.DLL
+ 77DB0000 08/04/2004 00:45:26 C:\WINDOWS\system32\RPCRT4.dll
+ 77E50000 12/28/2005 23:54:44 C:\WINDOWS\system32\GDI32.dll
+ 77F50000 08/04/2004 00:45:22 C:\WINDOWS\system32\ADVAPI32.DLL
+ 7C800000 07/05/2006 07:56:28 C:\WINDOWS\system32\kernel32.dll
+ 7C900000 08/04/2004 00:45:18 C:\WINDOWS\system32\ntdll.dll
+==========================================

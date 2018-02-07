@@ -1,0 +1,24 @@
+MAKE Version 5.2  Copyright (c) 1987, 2000 Borland
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+.\Words.cpp:
+.\app.cpp:
+Warning W8012 .\app.cpp 349: Comparing signed and unsigned values in function TApp::NearestQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8037 .\app.cpp 354: Non-const function stBasicStringObject<char,int>::Clone() called for const object in function TApp::NearestQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8012 .\app.cpp 367: Comparing signed and unsigned values in function TApp::NearestQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8037 .\app.cpp 372: Non-const function stBasicStringObject<char,int>::Clone() called for const object in function TApp::NearestQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8012 .\app.cpp 410: Comparing signed and unsigned values in function TApp::NearestIntersectionQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8012 .\app.cpp 429: Comparing signed and unsigned values in function TApp::NearestIntersectionQuery(ResultMeasureDiscrete *,ResultMeasureDiscrete *)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicObjects.cc 130: Comparing signed and unsigned values in function stBasicStringObject<char,int>::IsEqual(stBasicStringObject<char,int> *)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicObjects.cc 137: Comparing signed and unsigned values in function stBasicStringObject<char,int>::IsEqual(stBasicStringObject<char,int> *)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 109: Comparing signed and unsigned values in function stResult<stBasicStringObject<char,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 116: Comparing signed and unsigned values in function stResult<stBasicStringObject<char,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicMetricEvaluators.cc 199: Comparing signed and unsigned values in function stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char>::LEdit(stBasicStringObject<char,int> &,stBasicStringObject<char,int> &)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicMetricEvaluators.cc 202: Comparing signed and unsigned values in function stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char>::LEdit(stBasicStringObject<char,int> &,stBasicStringObject<char,int> &)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicMetricEvaluators.cc 206: Comparing signed and unsigned values in function stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char>::LEdit(stBasicStringObject<char,int> &,stBasicStringObject<char,int> &)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicMetricEvaluators.cc 207: Comparing signed and unsigned values in function stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char>::LEdit(stBasicStringObject<char,int> &,stBasicStringObject<char,int> &)
+Warning W8012 ..\..\..\..\include\arboretum/stBasicObjects.h 445: Comparing signed and unsigned values in function stBasicStringObject<char,int>::Get(int)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimNode.cc 111: Comparing signed and unsigned values in function stSlimMemLeafNode<stBasicStringObject<char,int> >::ReleaseNode()
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2499: Comparing signed and unsigned values in function stSlimTree<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> >::GetCiacciaLevelEstimateDiskAccesses(stLevelDiskAccess *,double,stHistogram<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> > *)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2586: Comparing signed and unsigned values in function stSlimTree<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> >::GetTestLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> > * *,double)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2677: Comparing signed and unsigned values in function stSlimTree<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> >::GetSampledLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicStringObject<char,int>,stBasicLEditMetricEvaluator<stBasicStringObject<char,int>,char> > * *,double)
+Turbo Incremental Link 5.00 Copyright (c) 1997, 2000 Borland

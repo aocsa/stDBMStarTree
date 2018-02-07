@@ -1,0 +1,1500 @@
+Bom Jesus do Sul-PR
+-26.1134
+53.3549
+Juscimeira-MT
+-16.0302
+54.5304
+Montes Claros-MG
+-16.4406
+43.5142
+Salinas da Margarida-BA
+-12.5216
+38.4552
+Araçagi-PB
+-06.5111
+35.2252
+Ipuã-SP
+-20.2617
+48.0044
+Rosário do Catete-SE
+-10.4146
+37.0150
+Novo Oriente de Minas-MG
+-17.2455
+41.1255
+Cerro Grande-RS
+-27.3622
+53.1000
+Macaúbas-BA
+-13.0110
+42.4155
+Altinho-PE
+-08.2923
+36.0334
+Porteirinha-MG
+-15.4436
+43.0142
+Casa Grande-MG
+-20.4734
+43.5549
+Ibicuitinga-CE
+-04.5826
+38.3820
+São José de Espinharas-PB
+-06.5050
+37.1933
+Canto do Buriti-PI
+-08.0636
+42.5640
+Caetanos-BA
+-14.2015
+40.5431
+Brasnorte-MT
+-12.0918
+57.5844
+Itiquira-MT
+-17.1232
+54.0901
+São João do Jaguaribe-CE
+-05.1616
+38.1625
+Queluzita-MG
+-20.4424
+43.5304
+Santa Teresinha-BA
+-12.4619
+39.3124
+Ipiaú-BA
+-14.0814
+39.4402
+Armazém-SC
+-28.1543
+49.0103
+Buritis-RO
+-10.1242
+63.4943
+Alto Boa Vista-MT
+-11.4028
+51.2316
+Monteiro Lobato-SP
+-22.5724
+45.5023
+Rio Negro-PR
+-26.0621
+49.4751
+Relvado-RS
+-29.0641
+52.0418
+Santa Rosa do Purus-AC
+-09.2558
+70.2936
+Mulungu do Morro-BA
+-11.5758
+41.3820
+Laurentino-SC
+-27.1300
+49.4359
+Augusto Corrêa-PA
+-01.0118
+46.3806
+Massaranduba-SC
+-26.3638
+49.0030
+Belém-PB
+-06.4130
+35.3200
+Pompéu-MG
+-19.1328
+44.5607
+Benjamin Constant do Sul-RS
+-27.3036
+52.3552
+Agrolândia-SC
+-27.2442
+49.4932
+Presidente Figueiredo-AM
+-02.0204
+60.0130
+Brunópolis-SC
+-27.1821
+50.5206
+Ventania-PR
+-24.1445
+50.1434
+Mombaça-CE
+-05.4435
+39.3739
+Dias d'Ávila-BA
+-12.3645
+38.1749
+Lagoa do Ouro-PE
+-09.0739
+36.2730
+Presidente Lucena-RS
+-29.3110
+51.1041
+Bom Jesus da Lapa-BA
+-13.1518
+43.2505
+Ponte Alta do Bom Jesus-TO
+-12.0527
+46.2845
+Barreirinha-AM
+-02.4736
+57.0412
+São João da Varjota-PI
+-06.2447
+41.5152
+Salvador-BA
+-12.5816
+38.3039
+Benjamin Constant-AM
+-04.2259
+70.0152
+Bocaina do Sul-SC
+-27.4440
+49.5640
+Silva Jardim-RJ
+-22.3903
+42.2330
+Paranã-TO
+-12.3655
+47.5259
+Vargem Grande-MA
+-03.3235
+43.5457
+Santa Cruz de Monte Castelo-PR
+-22.5712
+53.1750
+Boa Vista-PB
+-07.1534
+36.1424
+Teixeirópolis-RO
+-10.5503
+62.1458
+Novo Cruzeiro-MG
+-17.2805
+41.5231
+Paulo Lopes-SC
+-27.5742
+48.4101
+Água Branca-PI
+-05.5332
+42.3810
+Conceição do Canindé-PI
+-07.5240
+41.3549
+Morada Nova de Minas-MG
+-18.3616
+45.2124
+Arraial-PI
+-06.3917
+42.3154
+Manoel Emídio-PI
+-08.0046
+43.5218
+Currais Novos-RN
+-06.1539
+36.3104
+Gravatá-PE
+-08.1204
+35.3353
+Japaraíba-MG
+-20.0829
+45.3012
+Araguainha-MT
+-16.5122
+53.0157
+Paraíso do Sul-RS
+-29.4007
+53.0856
+Nova Andradina-MS
+-22.1400
+53.2035
+Castelo-ES
+-20.3613
+41.1105
+Porto Nacional-TO
+-10.4229
+48.2502
+Piranga-MG
+-20.4105
+43.1801
+Monte Horebe-PB
+-07.1254
+38.3511
+Pinheiros-ES
+-18.2213
+40.1248
+Vilhena-RO
+-12.4426
+60.0845
+Macambira-SE
+-10.3959
+37.3227
+Icó-CE
+-06.2404
+38.5144
+Barra de São Francisco-ES
+-18.4518
+40.5327
+Tupanciretã-RS
+-29.0450
+53.5009
+Amparo-SP
+-22.4204
+46.4552
+Selvíria-MS
+-20.2202
+51.2508
+Manaus-AM
+-03.0607
+60.0130
+Cocal de Telha-PI
+-04.3332
+41.5820
+Nova Santa Rosa-PR
+-24.2759
+53.5712
+Centenário-TO
+-08.5702
+47.2009
+Caraúbas-PB
+-07.4336
+36.2932
+São José do Peixe-PI
+-07.2937
+42.3349
+Muitos Capões-RS
+-28.1851
+51.1054
+Porto Rico-PR
+-22.4620
+53.1601
+Tibau do Sul-RN
+-06.1112
+35.0531
+Carinhanha-BA
+-14.1817
+43.4554
+São João da Boa Vista-SP
+-21.5809
+46.4753
+Miguel Pereira-RJ
+-22.2714
+43.2808
+Braço do Trombudo-SC
+-27.2128
+49.5308
+Jaguari-RS
+-29.2951
+54.4124
+Dores do Turvo-MG
+-20.5832
+43.1121
+Descalvado-SP
+-21.5414
+47.3710
+Jitaúna-BA
+-14.0108
+39.5320
+Munhoz de Melo-PR
+-23.0853
+51.4626
+Engenheiro Navarro-MG
+-17.1647
+43.5700
+Tuntum-MA
+-05.1529
+44.3856
+São Bernardo-MA
+-03.2141
+42.2504
+Cumaru-PE
+-08.0022
+35.4150
+Nova Trento-SC
+-27.1709
+48.5547
+Inhacorá-RS
+-27.5259
+54.0101
+Itarema-CE
+-02.5513
+39.5454
+Ibiara-PB
+-07.3005
+38.2417
+Princesa Isabel-PB
+-07.4412
+37.5936
+Amaraji-PE
+-08.2259
+35.2709
+Cacequi-RS
+-29.5301
+54.4930
+Miranda do Norte-MA
+-03.3408
+44.3502
+Rodeio Bonito-RS
+-27.2814
+53.1008
+Pouso Alegre-MG
+-22.1348
+45.5611
+São José dos Quatro Marcos-MT
+-15.3717
+58.1035
+São Félix do Xingu-PA
+-06.3841
+51.5942
+Corumbá de Goiás-GO
+-15.5525
+48.4831
+Cristal-RS
+-30.5959
+52.0254
+São José dos Ausentes-RS
+-28.4454
+50.0357
+Sento Sé-BA
+-09.4445
+41.5307
+Nova Esperança-PR
+-23.1101
+52.1217
+Poconé-MT
+-16.1524
+56.3722
+Faxinalzinho-RS
+-27.2527
+52.4023
+Sertaneja-PR
+-23.0213
+50.5018
+Sucupira-TO
+-11.5936
+48.5815
+Cambará do Sul-RS
+-29.0252
+50.0841
+Itaúna-MG
+-20.0431
+44.3435
+Tapiramutá-BA
+-11.5050
+40.4729
+Saltinho-SP
+-22.5048
+47.4037
+Cerqueira César-SP
+-23.0208
+49.0958
+Torixoreu-MT
+-16.1158
+52.3320
+Pão de Açúcar-AL
+-09.4454
+37.2612
+Antônio Olinto-PR
+-25.5910
+50.1150
+São Bernardo do Campo-SP
+-23.4138
+46.3354
+Caseiros-RS
+-28.1607
+51.4123
+Ponta de Pedras-PA
+-01.2325
+48.5216
+Miraíma-CE
+-03.3410
+39.5812
+Joviânia-GO
+-17.4821
+49.3646
+Ibirapuã-BA
+-17.4116
+40.0633
+Leopoldina-MG
+-21.3155
+42.3835
+Juquitiba-SP
+-23.5554
+47.0406
+Itapebi-BA
+-15.5703
+39.3202
+Biritinga-BA
+-11.3700
+38.4800
+Campinorte-GO
+-14.1841
+49.0904
+Pains-MG
+-20.2214
+45.3941
+Tabuleiro-MG
+-21.2132
+43.1452
+Craíbas-AL
+-09.3705
+36.4605
+Rafard-SP
+-23.0042
+47.3137
+Vista Gaúcha-RS
+-27.2845
+53.3125
+Toledo-MG
+-22.4435
+46.2219
+Maruim-SE
+-10.4415
+37.0454
+Dom Macedo Costa-BA
+-12.5418
+39.1133
+Xaxim-SC
+-26.5742
+52.3205
+Vertente do Lério-PE
+-07.4617
+35.5100
+Lavínia-SP
+-21.1006
+51.0223
+Barão do Triunfo-RS
+-30.2318
+51.4401
+Rinópolis-SP
+-21.4333
+50.4320
+Tocantins-MG
+-21.1030
+43.0104
+Palmeirândia-MA
+-02.3843
+44.5342
+Jacupiranga-SP
+-24.4133
+48.0008
+Custódia-PE
+-08.0515
+37.3835
+Arandu-SP
+-23.0804
+49.0314
+Passagem Franca-MA
+-06.1047
+43.4701
+São Domingos do Sul-RS
+-28.3151
+51.5316
+Capivari de Baixo-SC
+-28.2641
+48.5728
+Bertolínia-PI
+-07.3828
+43.5705
+Piedade de Ponte Nova-MG
+-20.1443
+42.4403
+Horizontina-RS
+-27.3733
+54.1828
+São João da Canabrava-PI
+-06.4900
+41.2035
+Lima Duarte-MG
+-21.5033
+43.4735
+São Benedito do Rio Preto-MA
+-03.2001
+43.3142
+Esteio-RS
+-29.5141
+51.1045
+Tabaí-RS
+-29.3835
+51.4056
+Boa Vista do Buricá-RS
+-27.4007
+54.0636
+Nova Canaã-BA
+-14.4739
+40.0833
+Senador Alexandre Costa-MA
+-05.1523
+44.0320
+Santa Gertrudes-SP
+-22.2724
+47.3149
+Dom Bosco-MG
+-16.3907
+46.1615
+Taperoá-PB
+-07.1227
+36.4936
+Viçosa do Ceará-CE
+-03.3344
+41.0532
+Novorizonte-MG
+-16.0102
+42.2428
+Panamá-GO
+-18.1036
+49.2115
+Londrina-PR
+-23.1837
+51.0946
+Triunfo-PE
+-07.5017
+38.0606
+Tartarugalzinho-AP
+01.3020
+50.5443
+Maragogi-AL
+-09.0044
+35.1321
+Livramento do Brumado-BA
+-13.3835
+41.5026
+Arvoredo-SC
+-27.0428
+52.2721
+Juruá-AM
+-03.2852
+66.0408
+Matina-BA
+-13.5434
+42.5058
+Ivaté-PR
+-23.2433
+53.2209
+Córrego Novo-MG
+-19.4955
+42.2347
+Encruzilhada-BA
+-15.3153
+40.5434
+Porangaba-SP
+-23.1033
+48.0730
+Catuípe-RS
+-28.1500
+54.0042
+Castelo do Piauí-PI
+-05.1920
+41.3309
+Adrianópolis-PR
+-24.3926
+48.5928
+Nova Independência-SP
+-21.0614
+51.2924
+Amaralina-GO
+-13.5535
+49.1750
+Saudade do Iguaçu-PR
+-25.4140
+52.3708
+Branquinha-AL
+-09.1444
+36.0055
+Mato Castelhano-RS
+-28.1642
+52.1130
+Itatiba do Sul-RS
+-27.2312
+52.2710
+Jataúba-PE
+-07.5924
+36.2947
+Ituberá-BA
+-13.4356
+39.0857
+Esplanada-BA
+-11.4746
+37.5642
+Colombo-PR
+-25.1730
+49.1327
+Rio Crespo-RO
+-09.4218
+62.5359
+Bodocó-PE
+-07.4642
+39.5628
+Caxambu do Sul-SC
+-27.0940
+52.5243
+Aquidauana-MS
+-20.2816
+55.4714
+Novo Machado-RS
+-27.3425
+54.3019
+Fernando Prestes-SP
+-21.1552
+48.4107
+Jacaraci-BA
+-14.5059
+42.2600
+Rifaina-SP
+-20.0450
+47.2517
+Dona Emma-SC
+-26.5905
+49.4332
+Aratiba-RS
+-27.2339
+52.1801
+Irani-SC
+-27.0129
+51.5406
+Sumé-PB
+-07.4018
+36.5248
+Filadélfia-TO
+-07.2010
+47.2925
+Areia de Baraúnas-PB
+-07.0722
+36.5628
+Cruz do Espírito Santo-PB
+-07.0824
+35.0511
+Aquiraz-CE
+-03.5405
+38.2328
+Cumari-GO
+-18.1547
+48.0904
+Anori-AM
+-03.4622
+61.3839
+Itapetininga-SP
+-23.3530
+48.0311
+Vila Velha-ES
+-20.1947
+40.1733
+Verdejante-PE
+-07.5532
+38.5818
+Tupi Paulista-SP
+-21.2252
+51.3414
+Areia Branca-RN
+-04.5722
+37.0813
+São Fidélis-RJ
+-21.3846
+41.4449
+Demerval Lobão-PI
+-05.2130
+42.4035
+Arroio dos Ratos-RS
+-30.0438
+51.4345
+Itamari-BA
+-13.4641
+39.4101
+Telêmaco Borba-PR
+-24.1926
+50.3656
+Cajazeiras do Piauí-PI
+-06.4558
+42.2330
+Silvanópolis-TO
+-11.0848
+48.1009
+Iguatu-CE
+-06.2134
+39.1755
+Bueno Brandão-MG
+-22.2627
+46.2103
+Assaí-PR
+-23.2224
+50.5029
+Bom Retiro do Sul-RS
+-29.3632
+51.5635
+Propriá-SE
+-10.1240
+36.5025
+Bandeirante-SC
+-26.4607
+53.3818
+Itaberaí-GO
+-16.0113
+49.4837
+Ouro Verde de Minas-MG
+-18.0414
+41.1611
+Rio Preto-MG
+-22.0521
+43.4940
+Alfredo Chaves-ES
+-20.3806
+40.4459
+Santo Antônio de Jesus-BA
+-12.5808
+39.1541
+Guaranésia-MG
+-21.1757
+46.4809
+Itapipoca-CE
+-03.2142
+39.4954
+Pau d'Arco-PA
+-07.4959
+50.0240
+Barbosa-SP
+-21.1600
+49.5657
+Cosmópolis-SP
+-22.3845
+47.1146
+Pedra do Anta-MG
+-20.3550
+42.4249
+Tejuçuoca-CE
+-03.5920
+39.3450
+João Lisboa-MA
+-05.2652
+47.2403
+Paraíso do Tocantins-TO
+-10.1034
+48.5200
+Tupaciguara-MG
+-18.3532
+48.4218
+Alpercata-MG
+-18.5827
+41.5813
+Nossa Senhora do Livramento-MT
+-15.4630
+56.2044
+Guaçuí-ES
+-20.4632
+41.4046
+Jaguaruana-CE
+-04.5002
+37.4652
+Nova Friburgo-RJ
+-22.1655
+42.3152
+São Pedro de Alcântara-SC
+-27.3358
+48.4819
+Matões-MA
+-05.3108
+43.1156
+Itambé do Mato Dentro-MG
+-19.2452
+43.1916
+Casinhas-PE
+-07.4428
+35.4316
+Tacaimbó-PE
+-08.1858
+36.1736
+Triunfo-PB
+-06.3443
+38.3549
+Glicério-SP
+-21.2234
+50.1221
+Travesseiro-RS
+-29.1739
+52.0319
+Entre Folhas-MG
+-19.3731
+42.1350
+Imigrante-RS
+-29.2119
+51.4637
+Maués-AM
+-03.2301
+57.4307
+Aruanã-GO
+-14.5513
+51.0459
+Ibiraci-MG
+-20.2744
+47.0720
+Mandirituba-PR
+-25.4644
+49.1934
+Serra Dourada-BA
+-12.4540
+43.5659
+Santo Antônio do Içá-AM
+-03.0608
+67.5623
+Jauru-MT
+-15.2031
+58.5159
+Caiuá-SP
+-21.4954
+51.5954
+Padre Marcos-PI
+-07.2118
+40.5416
+Venha-Ver-RN
+-06.1935
+38.2903
+Jijoca de Jericoacoara-CE
+-02.5342
+40.2657
+Amaturá-AM
+-03.2151
+68.1152
+Osasco-SP
+-23.3157
+46.4730
+Balbinos-SP
+-21.5359
+49.2124
+Santa Quitéria-CE
+-04.1955
+40.0924
+Ernestina-RS
+-28.2956
+52.3424
+Ourém-PA
+-01.3307
+47.0652
+Coronel Xavier Chaves-MG
+-21.0125
+44.1323
+Aspásia-SP
+-20.0932
+50.4338
+Juripiranga-PB
+-07.2224
+35.1417
+Guaiçara-SP
+-21.3719
+49.4755
+Garibaldi-RS
+-29.1522
+51.3201
+Rio Tinto-PB
+-06.4811
+35.0450
+Campo Magro-PR
+-25.2207
+49.2705
+São José do Cerrito-SC
+-27.3947
+50.3448
+Estiva-MG
+-22.2746
+46.0102
+Glória de Dourados-MS
+-22.2503
+54.1357
+Parobé-RS
+-29.3743
+50.5005
+Queluz-SP
+-22.3213
+44.4626
+Cachoeira dos µndios-PB
+-06.5537
+38.4027
+Salvaterra-PA
+-00.4512
+48.3100
+Riozinho-RS
+-29.3828
+50.2709
+Pratápolis-MG
+-20.4441
+46.5139
+Lagoa Alegre-PI
+-04.3056
+42.3729
+Nísia Floresta-RN
+-06.0528
+35.1231
+Vicentinópolis-GO
+-17.4406
+49.4818
+Mulungu-CE
+-04.1820
+38.5947
+Benevides-PA
+-01.2141
+48.1441
+Campo Alegre-SC
+-26.1133
+49.1556
+Poço Fundo-MG
+-21.4651
+45.5754
+Campo Grande-AL
+-09.5728
+36.4730
+Senador Firmino-MG
+-20.5443
+43.0548
+Honório Serpa-PR
+-26.0828
+52.2313
+Belterra-PA
+-02.3811
+54.5614
+Santana do Cariri-CE
+-07.1118
+39.4413
+Saquarema-RJ
+-22.5512
+42.3037
+Santana do São Francisco-SE
+-10.1728
+36.3629
+Catunda-CE
+-04.3852
+40.1205
+Padre Bernardo-GO
+-15.0937
+48.1702
+Chapadão do Sul-MS
+-18.4739
+52.3722
+Manoel Urbano-AC
+-08.5020
+69.1535
+Lajeado-TO
+-09.4505
+48.2129
+Angical-BA
+-12.0025
+44.4140
+Buriti dos Lopes-PI
+-03.1030
+41.5201
+Cerro Negro-SC
+-27.4743
+50.5233
+Diamante-PB
+-07.2540
+38.1551
+Ribeirão-PE
+-08.3052
+35.2240
+Cafeara-PR
+-22.4733
+51.4258
+Nova Monte Verde-MT
+-09.5856
+57.3205
+Almeirim-PA
+-01.3124
+52.3454
+Primavera de Rondônia-RO
+-11.4901
+61.1922
+Campo Largo do Piauí-PI
+-03.4844
+42.3743
+Divisa Alegre-MG
+-15.4332
+41.2042
+Jaguarari-BA
+-10.1550
+40.1145
+São Cristóvão-SE
+-11.0053
+37.1223
+Guiricema-MG
+-21.0028
+42.4304
+Juarina-TO
+-08.0710
+49.0353
+Lassance-MG
+-17.5312
+44.3439
+Campo Limpo Paulista-SP
+-23.1223
+46.4704
+Minas Novas-MG
+-17.1307
+42.3525
+Iepê-SP
+-22.3938
+51.0434
+Conceição das Pedras-MG
+-22.0936
+45.2717
+Erval Grande-RS
+-27.2326
+52.3414
+Morro Agudo de Goiás-GO
+-15.1915
+50.0324
+Nova Ponte-MG
+-19.0909
+47.4029
+Barroquinha-CE
+-03.0108
+41.0810
+Antônio Carlos-MG
+-21.1905
+43.4448
+Antônio Martins-RN
+-06.1246
+37.5420
+São Vicente Ferrer-MA
+-02.5339
+44.5249
+Pedrinhas-SE
+-11.1130
+37.4026
+Itaubal-AP
+00.4242
+50.4800
+Itapagipe-MG
+-19.5431
+49.2253
+Magé-RJ
+-22.3910
+43.0226
+Raul Soares-MG
+-20.0607
+42.2709
+Peruíbe-SP
+-24.1912
+46.5954
+Porto Murtinho-MS
+-21.4156
+57.5257
+Sertãozinho-SP
+-21.0816
+47.5925
+Santarém-PA
+-02.2635
+54.4230
+Feliz Deserto-AL
+-10.1731
+36.1822
+Rolim de Moura-RO
+-11.4813
+61.4812
+Brasil Novo-PA
+-03.1817
+53.3208
+Bariri-SP
+-22.0428
+48.4425
+Nova Londrina-PR
+-22.4557
+52.5906
+Mirassol-SP
+-20.4909
+49.3116
+Ampére-PR
+-25.5454
+53.2822
+Itatuba-PB
+-07.2230
+35.3742
+Portalegre-RN
+-06.0126
+37.5916
+Capim Branco-MG
+-19.3256
+44.0700
+Paulistas-MG
+-18.2539
+42.5206
+Sete Quedas-MS
+-23.5813
+55.0208
+Figueirópolis d'Oeste-MT
+-15.2642
+58.4425
+São Miguel do Tocantins-TO
+-05.3320
+47.3440
+Siqueira Campos-PR
+-23.4120
+49.5002
+Ilhota-SC
+-26.5359
+48.4938
+Carmo da Cachoeira-MG
+-21.2739
+45.1325
+Porto Real-RJ
+-22.2511
+44.1725
+Brejetuba-ES
+-20.0846
+41.1725
+São Francisco-SP
+-20.2133
+50.4148
+Brasília de Minas-MG
+-16.1223
+44.2600
+Diamantino-MT
+-14.2431
+56.2646
+Cunha-SP
+-23.0428
+44.5735
+Marques de Souza-RS
+-29.1939
+52.0533
+Bujari-AC
+-09.4950
+67.5708
+Marianópolis do Tocantins-TO
+-09.4745
+49.3915
+Guarapuava-PR
+-25.2343
+51.2729
+Votuporanga-SP
+-20.2522
+49.5822
+União da Vitória-PR
+-26.1348
+51.0511
+Borba-AM
+-04.2316
+59.3538
+Lucrécia-RN
+-06.0712
+37.4856
+Montividiu-GO
+-17.2639
+51.1029
+Petrópolis-RJ
+-22.3018
+43.1043
+Nova Tebas-PR
+-24.2617
+51.5643
+Flor da Serra do Sul-PR
+-26.1537
+53.1813
+Feira Grande-AL
+-09.5401
+36.4039
+Atalaia-PR
+-23.0904
+52.0316
+Alexandria-RN
+-06.2445
+38.0057
+Santa Izabel do Oeste-PR
+-25.4916
+53.2904
+Guapó-GO
+-16.4950
+49.3155
+Serrana-SP
+-21.1241
+47.3544
+Barão de Antonina-SP
+-23.3737
+49.3341
+Colorado-PR
+-22.5015
+51.5823
+Jacuí-MG
+-21.0100
+46.4428
+São José do Hortêncio-RS
+-29.3150
+51.1453
+Acreúna-GO
+-17.2344
+50.2237
+Jacutinga-RS
+-27.4344
+52.3206
+Bernardo Sayão-TO
+-07.5225
+48.5318
+Palmeirópolis-TO
+-13.0238
+48.2408
+Pesqueira-PE
+-08.2128
+36.4147
+União do Sul-MT
+-11.3159
+54.2112
+Astorga-PR
+-23.1357
+51.3956
+Santa Lúcia-SP
+-21.4106
+48.0503
+Brejo-MA
+-03.4104
+42.4501
+Jenipapo dos Vieiras-MA
+-05.2217
+45.3811
+Cardeal da Silva-BA
+-11.5630
+37.5655
+Babaçulândia-TO
+-07.1217
+47.4525
+Axixá do Tocantins-TO
+-05.3659
+47.4710
+Guarani d'Oeste-SP
+-20.0429
+50.2022
+Ortigueira-PR
+-24.1230
+50.5658
+Paraíba do Sul-RJ
+-22.0943
+43.1734
+Apiacás-MT
+-09.3237
+57.2657
+Jaguaripe-BA
+-13.0648
+38.5344
+Primavera-PA
+-00.5625
+47.0659
+Sítio d'Abadia-GO
+-14.4819
+46.1511
+Bento Fernandes-RN
+-05.4138
+35.4911
+Maravilha-SC
+-26.4539
+53.1021
+Ibiá-MG
+-19.2842
+46.3220
+Piracema-MG
+-20.3028
+44.2857
+Marquinho-PR
+-25.0648
+52.1515
+Serrano do Maranhão-MA
+-01.5123
+45.0721
+Itagi-BA
+-14.0946
+40.0022
+Pindaré Mirim-MA
+-03.3630
+45.2036
+Urutaí-GO
+-17.2749
+48.1206
+Araruama-RJ
+-22.5222
+42.2035
+São José de Princesa-PB
+-07.4418
+38.0539
+Feira da Mata-BA
+-14.1246
+44.1652
+Baixa Grande-BA
+-11.5735
+40.1005
+Gravatal-SC
+-28.1952
+49.0207
+Sena Madureira-AC
+-09.0356
+68.3925
+Joselândia-MA
+-04.5600
+44.4100
+Conceição dos Ouros-MG
+-22.2447
+45.4753
+Pindamonhangaba-SP
+-22.5526
+45.2742
+Veranópolis-RS
+-28.5610
+51.3258
+Muqui-ES
+-20.5706
+41.2045
+Mata Grande-AL
+-09.0703
+37.4356
+Borborema-PB
+-06.4812
+35.3448
+Palmeirante-TO
+-07.5136
+47.5533
+Iguatu-PR
+-24.3839
+53.0805
+Barra do Quaraí-RS
+-30.1226
+57.3317
+Dourados-MS
+-22.1316
+54.4820
+Medina-MG
+-16.1321
+41.2837
+Uberaba-MG
+-19.4454
+47.5555
+Messias-AL
+-09.2300
+35.5030
+Presidente Venceslau-SP
+-21.5234
+51.5038
+Tapira-PR
+-23.1922
+53.0405
+Ipiranga do Sul-RS
+-27.5612
+52.2535
+Emilianópolis-SP
+-21.4959
+51.2859
+Canguaretama-RN
+-06.2248
+35.0744
+Capitão de Campos-PI
+-04.2724
+41.5633
+Horizonte-CE
+-04.0509
+38.3905
+Cabo Verde-MG
+-21.2819
+46.2346
+Cachoeiro de Itapemirim-ES
+-20.5056
+41.0646
+Castanhal-PA
+-01.1738
+47.5535
+Piraquara-PR
+-25.2630
+49.0348
+Irapuã-SP
+-21.1646
+49.2432
+Guaimbê-SP
+-21.5436
+49.5348
+Seropédica-RJ
+-22.4438
+43.4227
+Limoeiro do Norte-CE
+-05.0844
+38.0553
+Charqueadas-RS
+-29.5717
+51.3731
+Pirenópolis-GO
+-15.5109
+48.5733
+Ibaretama-CE
+-04.4815
+38.4512
+Paula Cândido-MG
+-20.5227
+42.5849
+São José do Jacuípe-BA
+-11.3014
+40.0120
+Miracatu-SP
+-24.1653
+47.2735
+Araucária-PR
+-25.3535
+49.2437
+Livramento-PB
+-07.2227
+36.5647
+Ribeira do Piauí-PI
+-07.4126
+42.4246
+Oliveira dos Brejinhos-BA
+-12.1901
+42.5346
+Deputado Irapuan Pinheiro-CE
+-05.5501
+39.1604
+Quinta do Sol-PR
+-23.5108
+52.0747
+Antônio Carlos-SC
+-27.3101
+48.4603
+Brejo Grande-SE
+-10.2546
+36.2758
+Milagres do Maranhão-MA
+-03.3453
+42.3634
+Cesário Lange-SP
+-23.1336
+47.5711
+Portão-RS
+-29.4206
+51.1431
+Chapada dos Guimarães-MT
+-15.2738
+55.4459
+Denise-MT
+-14.4424
+57.0314
+Carnaíba-PE
+-07.4819
+37.4738
+Tupandi-RS
+-29.2835
+51.2516
+Siderópolis-SC
+-28.3552
+49.2528
+Pedra Branca-PB
+-07.2538
+38.0403
+Cristalândia-TO
+-10.3601
+49.1135
+Santa Fé de Minas-MG
+-16.4124
+45.2450
+Indiavaí-MT
+-15.2940
+58.3422
+Vigia-PA
+-00.5130
+48.0830
+Iacanga-SP
+-21.5324
+49.0129
+Bom Jardim de Goiás-GO
+-16.1235
+52.1020

@@ -1,0 +1,5 @@
+Height: 4
+Object Count: 11900
+Root: 346
+Page Count: 781
+Page size: 4096

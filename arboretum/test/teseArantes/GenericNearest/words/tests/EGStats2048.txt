@@ -1,0 +1,8 @@
+
+Height: 4
+Objs Count: 24643
+Maximum Entries per Node: 104
+Minimum Occupation per Node: 0.250000
+Page Count: 1133
+Page size: 2048
+Mean Object Size: 11.218683

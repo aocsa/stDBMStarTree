@@ -1,0 +1,146 @@
+***********************************************************************
+* GBDI Arboretum - Copyright (c) 2002-2004 GBDI-ICMC-USP
+*
+*                           Homepage: http://gbdi.icmc.usp.br/arboretum
+***********************************************************************
+                                                 Release 2 (05/15/2004)
+
+What is GBDI Arboretum
+=======================================================================
+
+The GBDI Arboretum is a portable C++ library which implements various
+metric access method (MAM). By using this library, any application will
+be able to perform similarity queries (queries by contents) with the
+minimum efforts possible. Furthermore, it will provide a robust and
+uniform platform for MAM developers which allows fair comparisons
+among all methods implemented by this library.
+
+
+Version History
+=======================================================================
+
+1.0.1:
+	- Mingw with GCC 3.x compile error fixed.
+	- Better make scripts.
+	- Small documentation updates.
+
+1.0:
+   - First public release.
+
+
+Supported MAM
+=======================================================================
+
+This version contains the implementation of:
+
+   - Sequential Scan (stDummyTree)
+   - Slim-Tree (stSlimTree)
+   
+
+Supported Systems
+=======================================================================
+
+GBDI Arboretum version 1.0 is available for various systems:
+   
+   Platform          Compiler          Build scripts     Tested
+   --------          --------          -------------     ------
+   MS Win32          MingW             Yes               Yes
+                     CygWin            Yes               No
+                     BCC 5             No                Yes
+                     BCB 5             Yes               Yes
+                     BCB 6             Yes               No
+                     MS VC             No                No
+   Linux IA386       GNU GCC           Yes               Yes
+   Linux             GNU GCC           Yes               No
+   Solaris           GNU GCC           Yes               No
+
+
+Instalation
+=======================================================================
+
+Basic Requirements
+------------------
+
+All compilers must support C++ and have the Standard C++ Library installed
+(a.k.a. STL).
+
+
+GNU GCC - Any platform
+----------------------
+
+You may use the Makefile located in the directory "lib/gcc". The resulting
+library will be located at "lib/libarboretum.a". This file must be linked
+to your application in order to compile it.
+
+	make -f Makefile.gcc
+
+Note 1: To compile the Windows version, you must use MingW or Cygwin. GNU
+Make is required.
+
+Note 2: We tested it with GCC versions 2.95 and 3.x.
+
+BCB 5
+-----
+
+There is a project file in the directory "lib/bcc5". The resulting library
+will be located at "lib/arboretum.lib". This file must be linked to your
+application in order to compile it.
+
+BCB 6
+-----
+
+There is a project file in the directory "lib/bcc5". The resulting library
+will be located at "lib/arboretum.lib". This file must be linked to your
+application in order to compile it.
+
+
+Compiling the Examples
+=======================================================================
+
+To compile the examples found in sample, you must compile the library
+first. After that, goto the desired example directory and run the build
+scripts.
+
+Except for the sample-02_SlimTree, which was designed for Borland C++
+Builder 5. The other examples can be compiled by C++ Builder and GCC
+compilers.
+
+
+Visualization Support
+=======================================================================
+      
+The visualization support must be enabled during the library and
+application compile time by defining the macro "__stMAMVIEW__".
+See its documentation for more details about its usage.
+
+Documentation
+=======================================================================
+      
+In order to recreate the reference guide, you must get Doxygen
+at http://www.doxygen.org/. Install it (full installation with dot and
+latex is recommended), goto docs directory and type:
+
+	doxygen
+
+This command will generate a new directory, called html which contains
+the reference guide. You can also download it from the download site at
+
+	http://gbdi.icmc.usp.br/arboretum/
+
+
+Bug Report and Issues
+=======================================================================
+
+To report bugs, suggest new issues and other things, please goto our
+Bugzilla repository and posts bugs there:
+
+	http://gbdi.icmc.usp.br/bugzilla/
+
+We will be glad to solve the bugs posted problems as soon as possible.
+
+We are also open to external contributions which may be posted in the
+bugzilla too. They will be analised and, if accepted, full credts will
+be given.
+
+-----   
+$Id: README,v 1.3 2004/05/11 05:50:57 fabio Exp $

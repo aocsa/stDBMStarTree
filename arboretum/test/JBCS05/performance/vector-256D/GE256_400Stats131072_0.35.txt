@@ -1,0 +1,67 @@
+
+
+MetricTreeMTree
+	Height: 3
+	Objs Count: 19750
+	Radius Tree: -1
+	Maximum Entries per Node: -1
+	Minimum Occupation per Node: 0.250000
+	Page Count: 538
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 1546038
+
+MetricTreeSlimDown
+	Height: 3
+	Objs Count: 19750
+	Radius Tree: -1
+	Maximum Entries per Node: -1
+	Minimum Occupation per Node: 0.250000
+	Page Count: 500
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 1576403
+
+MetricTreeDBM[0]
+	Height: 7
+	Objs Count: 19750
+	Radius Tree: 20.386628
+	Maximum Entries per Node: 63
+	Minimum Occupation per Node: 0.350000
+	Page Count: 497
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 236327
+
+MetricTreeDBM[1]
+	Height: 6
+	Objs Count: 19750
+	Radius Tree: 17.970195
+	Maximum Entries per Node: 63
+	Minimum Occupation per Node: 0.350000
+	Page Count: 496
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 289743
+
+MetricTreeDBM[2]
+	Height: 3
+	Objs Count: 19750
+	Radius Tree: 18.216442
+	Maximum Entries per Node: 63
+	Minimum Occupation per Node: 0.500000
+	Page Count: 494
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 181070
+
+MetricTreeDBM[3]
+	Height: 4
+	Objs Count: 19750
+	Radius Tree: 24.193718
+	Maximum Entries per Node: 63
+	Minimum Occupation per Node: 0.500000
+	Page Count: 509
+	Page size: 131072
+	Mean Object Size: 2052.000000
+	Total Time Construction: 112981

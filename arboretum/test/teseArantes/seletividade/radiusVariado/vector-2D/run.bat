@@ -1,0 +1,2 @@
+Vector 1024 7 1.93 0.445 LB true 0.3 3 ../../../../../../datasets/LBeachResto.txt ../../../../../../datasets/LBeach500.txt
+Vector 1024 7 1.81 540364.94 MG true 0.3 3 ../../../../../../datasets/MGCountyResto.txt ../../../../../../datasets/MGCounty500.txt

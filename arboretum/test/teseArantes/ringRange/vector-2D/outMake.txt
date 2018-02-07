@@ -1,0 +1,23 @@
+MAKE Version 5.2  Copyright (c) 1987, 2000 Borland
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+.\app.cpp:
+Loaded pre-compiled headers.
+Warning W8004 .\app.cpp 169: 'contObj' is assigned a value that is never used in function TApp::LoadVectorFromFile(char *)
+Warning W8004 ..\..\..\..\include\arboretum/stSlimTree.cc 2078: 'distanceTemp' is assigned a value that is never used in function stSlimTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::GetGreaterDistance()
+Warning W8012 .\app.cpp 328: Comparing signed and unsigned values in function TApp::RingRange(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 340: Comparing signed and unsigned values in function TApp::RingRange(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 377: Comparing signed and unsigned values in function TApp::RingRangeIntersection(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 396: Comparing signed and unsigned values in function TApp::RingRangeIntersection(ResultMeasure *,ResultMeasure *)
+Warning W8004 ..\..\..\..\include\arboretum/stResult.cc 232: 'result' is assigned a value that is never used in function stResult<stBasicArrayObject<double,int> >::Intersection(stResult<stBasicArrayObject<double,int> > *,stResult<stBasicArrayObject<double,int> > *)
+Warning W8012 .\app.cpp 439: Comparing signed and unsigned values in function TApp::Range(ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 451: Comparing signed and unsigned values in function TApp::Range(ResultMeasure *,ResultMeasure *)
+Warning W8004 ..\..\..\..\include\arboretum/stDummyTree.cc 138: 'id' is assigned a value that is never used in function stDummyTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::Add(stBasicArrayObject<double,int> *)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 109: Comparing signed and unsigned values in function stResult<stBasicArrayObject<double,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stResult.cc 116: Comparing signed and unsigned values in function stResult<stBasicArrayObject<double,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimNode.cc 111: Comparing signed and unsigned values in function stSlimMemLeafNode<stBasicArrayObject<double,int> >::ReleaseNode()
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2499: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::GetCiacciaLevelEstimateDiskAccesses(stLevelDiskAccess *,double,stHistogram<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > > *)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2586: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::GetTestLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > > * *,double)
+Warning W8012 ..\..\..\..\include\arboretum/stSlimTree.cc 2677: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::GetSampledLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > > * *,double)
+Warning W8004 ..\..\..\..\include\arboretum/stSlimTree.cc 1929: 'distanceTemp' is assigned a value that is never used in function stSlimTree<stBasicArrayObject<double,int>,stBasicEuclideanMetricEvaluator<stBasicArrayObject<double,int> > >::GetDistanceLimit()
+.\Vector.cpp:
+Turbo Incremental Link 5.00 Copyright (c) 1997, 2000 Borland

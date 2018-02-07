@@ -1,0 +1,37 @@
+sample1 10000
+ren 00000000.mva 010000.mva
+
+sample1 20000
+ren 00000000.mva 020000.mva
+
+sample1 30000
+ren 00000000.mva 030000.mva
+
+sample1 40000
+ren 00000000.mva 040000.mva
+
+sample1 50000
+ren 00000000.mva 050000.mva
+
+sample1 60000
+ren 00000000.mva 060000.mva
+
+sample1 70000
+ren 00000000.mva 070000.mva
+
+sample1 80000
+ren 00000000.mva 080000.mva
+
+sample1 90000
+ren 00000000.mva 090000.mva
+
+sample1 100000
+ren 00000000.mva 100000.mva
+
+sample1 200000
+ren 00000000.mva 200000.mva
+
+sample1 1000000
+ren 00000000.mva 1000000.mva
+
+

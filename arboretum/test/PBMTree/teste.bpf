@@ -1,0 +1,9 @@
+USEUNIT("teste.cpp");
+USELIB("..\..\lib\arboretum.lib");
+USEUNIT("Histogram.cpp");
+USEUNIT("Texture.cpp");
+USEUNIT("MultiFeatureObject.cpp");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

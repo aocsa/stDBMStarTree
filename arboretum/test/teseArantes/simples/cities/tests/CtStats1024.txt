@@ -1,0 +1,18 @@
+
+
+MetricTreeDummy
+	Height: 0
+	Objs Count: 5257
+	Maximum Entries per Node: 31
+	Minimum Occupation per Node: -1.000000
+	Page Count: 183
+	Page size: 1024
+
+MetricTreeSlim
+	Height: 4
+	Objs Count: 5257
+	Maximum Entries per Node: 25
+	Minimum Occupation per Node: 0.250000
+	Page Count: 417
+	Page size: 1024
+	Mean Object Size: 30.600342

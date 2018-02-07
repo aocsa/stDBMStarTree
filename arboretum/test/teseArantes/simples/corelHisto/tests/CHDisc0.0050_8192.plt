@@ -1,0 +1,79 @@
+set title "Conjunto de Dados: ColorHisto  page=8192,  k=0.0050"
+set logscale xy
+set xlabel "% raio"
+set ylabel "Nro. Médio de Acesso a Disco"
+plot '-' title '(A) Slim-Tree: kAndRange' with linespoints lt 1 lw 2 pt 1, '-' title '(B) Slim-Tree: Nearest AND Range' with linespoints lt 6 lw 2 pt 3, '-' title '(C) Slim-Tree: kOrRange' with linespoints lt 3 lw 2 pt 2, '-' title '(D) Slim-Tree: Nearest OR Range' with linespoints lt 8 lw 2 pt 4, '-' title '(E) SeqScan: kAndRange' with linespoints lt 2 lw 2 pt 5, '-' title '(F) SeqScan: Nearest AND Range' with linespoints lt 4 lw 2 pt 6, '-' title '(G) SeqScan: kOrRange' with linespoints lt 5 lw 2 pt 11, '-' title '(H) SeqScan: Nearest OR Range' with linespoints lt 6 lw 2 pt 8####################
+# SlimTree-KAndRange
+0.001000	378.242000
+0.002000	381.192000
+0.005000	390.228000
+0.010000	405.772000
+0.020000	439.448000
+0.050000	564.170000
+0.100000	860.756000
+end
+# SlimTree-KIntersectionRange
+0.001000	1637.578000
+0.002000	1640.528000
+0.005000	1649.564000
+0.010000	1665.108000
+0.020000	1698.784000
+0.050000	1823.580000
+0.100000	2121.312000
+end
+# SlimTree-KORRange
+0.001000	1259.336000
+0.002000	1259.336000
+0.005000	1259.336000
+0.010000	1259.336000
+0.020000	1259.336000
+0.050000	1259.410000
+0.100000	1260.556000
+end
+# SlimTree-KUnionRange
+0.001000	1637.578000
+0.002000	1640.528000
+0.005000	1649.564000
+0.010000	1665.108000
+0.020000	1698.784000
+0.050000	1823.580000
+0.100000	2121.312000
+end
+# SeqScan-KAndRange
+0.001000	2187.000000
+0.002000	2187.000000
+0.005000	2187.000000
+0.010000	2187.000000
+0.020000	2187.000000
+0.050000	2187.000000
+0.100000	2187.000000
+end
+# SeqScan-KIntersectionRange
+0.001000	4374.000000
+0.002000	4374.000000
+0.005000	4374.000000
+0.010000	4374.000000
+0.020000	4374.000000
+0.050000	4374.000000
+0.100000	4374.000000
+end
+# SeqScan-KORRange
+0.001000	2187.000000
+0.002000	2187.000000
+0.005000	2187.000000
+0.010000	2187.000000
+0.020000	2187.000000
+0.050000	2187.000000
+0.100000	2187.000000
+end
+# SeqScan-KUnionRange
+0.001000	4374.000000
+0.002000	4374.000000
+0.005000	4374.000000
+0.010000	4374.000000
+0.020000	4374.000000
+0.050000	4374.000000
+0.100000	4374.000000
+end
+
+pause -1

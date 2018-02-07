@@ -1,0 +1,21 @@
+MAKE Version 5.2  Copyright (c) 1987, 2000 Borland
+Borland C++ 5.5.1 for Win32 Copyright (c) 1993, 2000 Borland
+.\corelHisto.cpp:
+.\app.cpp:
+Warning W8004 ..\..\..\..\..\include\arboretum/stSlimTree.cc 2078: 'distanceTemp' is assigned a value that is never used in function stSlimTree<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > >::GetGreaterDistance()
+Warning W8004 .\app.cpp 279: 'numK' is assigned a value that is never used in function TApp::PerformKAndRangeQuery(ResultMeasure *,ResultMeasure *,ResultMeasure *)
+Warning W8004 .\app.cpp 349: 'numK' is assigned a value that is never used in function TApp::PerformKOrRangeQuery(ResultMeasure *,ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 530: Comparing signed and unsigned values in function TApp::WriteToFile(FILE *,ResultMeasure *,ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 544: Comparing signed and unsigned values in function TApp::WriteToFile(FILE *,ResultMeasure *,ResultMeasure *,ResultMeasure *)
+Warning W8012 .\app.cpp 575: Comparing signed and unsigned values in function TApp::SetKFromObjects(ResultMeasure *,int)
+Warning W8012 .\app.cpp 582: Comparing signed and unsigned values in function TApp::SetKFromObjects(ResultMeasure *,int)
+Warning W8012 .\app.cpp 585: Comparing signed and unsigned values in function TApp::SetKFromObjects(ResultMeasure *,int)
+Warning W8012 ..\..\..\..\..\include\arboretum/stResult.cc 109: Comparing signed and unsigned values in function stResult<stBasicArrayObject<double,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\..\include\arboretum/stResult.cc 116: Comparing signed and unsigned values in function stResult<stBasicArrayObject<double,int> >::Cut(unsigned int)
+Warning W8012 ..\..\..\..\..\include\arboretum/stSlimNode.cc 111: Comparing signed and unsigned values in function stSlimMemLeafNode<stBasicArrayObject<double,int> >::ReleaseNode()
+Warning W8012 ..\..\..\..\..\include\arboretum/stSlimTree.cc 2499: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > >::GetCiacciaLevelEstimateDiskAccesses(stLevelDiskAccess *,double,stHistogram<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > > *)
+Warning W8012 ..\..\..\..\..\include\arboretum/stSlimTree.cc 2586: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > >::GetTestLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > > * *,double)
+Warning W8012 ..\..\..\..\..\include\arboretum/stSlimTree.cc 2677: Comparing signed and unsigned values in function stSlimTree<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > >::GetSampledLevelEstimateDiskAccesses(stLevelDiskAccess *,stHistogram<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > > * *,double)
+Warning W8004 ..\..\..\..\..\include\arboretum/stSlimTree.cc 1929: 'distanceTemp' is assigned a value that is never used in function stSlimTree<stBasicArrayObject<double,int>,stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> > >::GetDistanceLimit()
+Warning W8012 ..\..\..\..\..\include\arboretum/stBasicMetricEvaluators.cc 132: Comparing signed and unsigned values in function stBasicManhatanMetricEvaluator<stBasicArrayObject<double,int> >::GetDistance(stBasicArrayObject<double,int> *,stBasicArrayObject<double,int> *)
+Turbo Incremental Link 5.00 Copyright (c) 1997, 2000 Borland
